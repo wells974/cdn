@@ -1,0 +1,412 @@
+
+laisili.png
+size: 1985,808
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/技能/技能/技能_00011
+  rotate: false
+  xy: 1116, 25
+  size: 52, 52
+  orig: 288, 241
+  offset: 116, 93
+  index: -1
+eff/技能/技能/技能_00012
+  rotate: false
+  xy: 722, 188
+  size: 52, 52
+  orig: 288, 241
+  offset: 116, 93
+  index: -1
+eff/技能/技能/技能_00013
+  rotate: false
+  xy: 1883, 117
+  size: 100, 100
+  orig: 288, 241
+  offset: 92, 68
+  index: -1
+eff/技能/技能/技能_00014
+  rotate: false
+  xy: 804, 113
+  size: 120, 120
+  orig: 288, 241
+  offset: 82, 59
+  index: -1
+eff/技能/技能/技能_00015
+  rotate: true
+  xy: 1317, 2
+  size: 184, 149
+  orig: 288, 241
+  offset: 66, 41
+  index: -1
+eff/技能/技能/技能_00016
+  rotate: false
+  xy: 794, 235
+  size: 206, 165
+  orig: 288, 241
+  offset: 53, 36
+  index: -1
+eff/技能/技能/技能_00017
+  rotate: false
+  xy: 563, 242
+  size: 229, 180
+  orig: 288, 241
+  offset: 40, 28
+  index: -1
+eff/技能/技能/技能_00018
+  rotate: true
+  xy: 1572, 368
+  size: 239, 188
+  orig: 288, 241
+  offset: 33, 24
+  index: -1
+eff/技能/技能/技能_00019
+  rotate: false
+  xy: 577, 424
+  size: 250, 194
+  orig: 288, 241
+  offset: 24, 21
+  index: -1
+eff/技能/技能/技能_00020
+  rotate: false
+  xy: 286, 16
+  size: 258, 196
+  orig: 288, 241
+  offset: 18, 20
+  index: -1
+eff/技能/技能/技能_00021
+  rotate: false
+  xy: 1427, 609
+  size: 268, 197
+  orig: 288, 241
+  offset: 11, 19
+  index: -1
+eff/技能/技能/技能_00022
+  rotate: false
+  xy: 1151, 609
+  size: 274, 197
+  orig: 288, 241
+  offset: 7, 19
+  index: -1
+eff/技能/技能/技能_00023
+  rotate: false
+  xy: 2, 196
+  size: 282, 197
+  orig: 288, 241
+  offset: 3, 20
+  index: -1
+eff/技能/技能/技能_00024
+  rotate: false
+  xy: 2, 395
+  size: 284, 204
+  orig: 288, 241
+  offset: 2, 22
+  index: -1
+eff/技能/技能/技能_00025
+  rotate: false
+  xy: 2, 601
+  size: 285, 205
+  orig: 288, 241
+  offset: 2, 24
+  index: -1
+eff/技能/技能/技能_00026
+  rotate: false
+  xy: 289, 611
+  size: 286, 195
+  orig: 288, 241
+  offset: 1, 34
+  index: -1
+eff/技能/技能/技能_00027
+  rotate: false
+  xy: 577, 620
+  size: 286, 186
+  orig: 288, 241
+  offset: 1, 47
+  index: -1
+eff/技能/技能/技能_00028
+  rotate: false
+  xy: 865, 619
+  size: 284, 187
+  orig: 288, 241
+  offset: 2, 47
+  index: -1
+eff/技能/技能/技能_00029
+  rotate: false
+  xy: 2, 7
+  size: 278, 187
+  orig: 288, 241
+  offset: 4, 48
+  index: -1
+eff/技能/技能/技能_00030
+  rotate: false
+  xy: 289, 421
+  size: 272, 188
+  orig: 288, 241
+  offset: 6, 48
+  index: -1
+eff/技能/技能/技能_00031
+  rotate: false
+  xy: 1697, 612
+  size: 267, 194
+  orig: 288, 241
+  offset: 8, 42
+  index: -1
+eff/技能/技能/技能_00032
+  rotate: false
+  xy: 288, 214
+  size: 261, 205
+  orig: 288, 241
+  offset: 12, 31
+  index: -1
+eff/技能/技能/技能_00033
+  rotate: false
+  xy: 829, 402
+  size: 246, 215
+  orig: 288, 241
+  offset: 20, 21
+  index: -1
+eff/技能/技能/技能_00034
+  rotate: false
+  xy: 1077, 382
+  size: 246, 225
+  orig: 288, 241
+  offset: 20, 11
+  index: -1
+eff/技能/技能/技能_00035
+  rotate: false
+  xy: 1325, 375
+  size: 245, 232
+  orig: 288, 241
+  offset: 20, 4
+  index: -1
+eff/技能/技能/技能_00036
+  rotate: true
+  xy: 1762, 382
+  size: 228, 188
+  orig: 288, 241
+  offset: 20, 48
+  index: -1
+eff/技能/技能/技能_00037
+  rotate: false
+  xy: 1002, 194
+  size: 202, 186
+  orig: 288, 241
+  offset: 43, 49
+  index: -1
+eff/技能/技能/技能_00038
+  rotate: false
+  xy: 1317, 188
+  size: 197, 185
+  orig: 288, 241
+  offset: 45, 50
+  index: -1
+eff/技能/技能/技能_00039
+  rotate: false
+  xy: 1516, 186
+  size: 189, 180
+  orig: 288, 241
+  offset: 51, 53
+  index: -1
+eff/技能/技能/技能_00040
+  rotate: false
+  xy: 1468, 8
+  size: 186, 176
+  orig: 288, 241
+  offset: 51, 56
+  index: -1
+eff/技能/技能/技能_00041
+  rotate: false
+  xy: 546, 2
+  size: 185, 169
+  orig: 288, 241
+  offset: 51, 63
+  index: -1
+eff/技能/技能/技能_00042
+  rotate: true
+  xy: 1707, 185
+  size: 181, 77
+  orig: 288, 241
+  offset: 52, 68
+  index: -1
+eff/技能/技能/技能_00043
+  rotate: true
+  xy: 1804, 40
+  size: 177, 77
+  orig: 288, 241
+  offset: 52, 68
+  index: -1
+eff/技能/技能/技能_00044
+  rotate: false
+  xy: 563, 563
+  size: 11, 46
+  orig: 288, 241
+  offset: 217, 96
+  index: -1
+eff/技能/技能/技能_00045
+  rotate: false
+  xy: 551, 374
+  size: 10, 45
+  orig: 288, 241
+  offset: 217, 97
+  index: -1
+eff/技能/技能/技能_00046
+  rotate: false
+  xy: 1697, 609
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pt/arm-l
+  rotate: false
+  xy: 1951, 36
+  size: 32, 79
+  orig: 32, 79
+  offset: 0, 0
+  index: -1
+pt/arm-r
+  rotate: true
+  xy: 663, 198
+  size: 42, 57
+  orig: 43, 57
+  offset: 1, 0
+  index: -1
+pt/body
+  rotate: false
+  xy: 1786, 219
+  size: 149, 161
+  orig: 149, 161
+  offset: 0, 0
+  index: -1
+pt/dunpai
+  rotate: false
+  xy: 1196, 35
+  size: 93, 136
+  orig: 93, 136
+  offset: 0, 0
+  index: -1
+pt/eye-l
+  rotate: true
+  xy: 1002, 382
+  size: 18, 20
+  orig: 20, 22
+  offset: 1, 1
+  index: -1
+pt/eye-r
+  rotate: true
+  xy: 1762, 368
+  size: 12, 20
+  orig: 17, 25
+  offset: 1, 1
+  index: -1
+pt/eyes
+  rotate: true
+  xy: 1065, 27
+  size: 75, 49
+  orig: 77, 51
+  offset: 1, 1
+  index: -1
+pt/hair1
+  rotate: false
+  xy: 926, 99
+  size: 57, 134
+  orig: 57, 135
+  offset: 0, 0
+  index: -1
+pt/hair2
+  rotate: false
+  xy: 1883, 2
+  size: 66, 113
+  orig: 68, 157
+  offset: 2, 44
+  index: -1
+pt/hair3
+  rotate: true
+  xy: 918, 19
+  size: 78, 68
+  orig: 94, 68
+  offset: 15, 0
+  index: -1
+pt/hair4
+  rotate: false
+  xy: 1206, 173
+  size: 109, 207
+  orig: 109, 225
+  offset: 0, 18
+  index: -1
+pt/hair5
+  rotate: false
+  xy: 1131, 79
+  size: 63, 113
+  orig: 82, 126
+  offset: 1, 0
+  index: -1
+pt/head
+  rotate: true
+  xy: 804, 7
+  size: 104, 112
+  orig: 105, 112
+  offset: 1, 0
+  index: -1
+pt/houqunzi
+  rotate: false
+  xy: 985, 104
+  size: 144, 88
+  orig: 144, 97
+  offset: 0, 0
+  index: -1
+pt/leg-l
+  rotate: false
+  xy: 1023, 3
+  size: 40, 99
+  orig: 41, 109
+  offset: 1, 1
+  index: -1
+pt/leg-r
+  rotate: false
+  xy: 988, 2
+  size: 33, 100
+  orig: 34, 101
+  offset: 0, 0
+  index: -1
+pt/pifeng
+  rotate: true
+  xy: 1656, 29
+  size: 154, 146
+  orig: 154, 146
+  offset: 0, 0
+  index: -1
+pt/weapon
+  rotate: true
+  xy: 733, 3
+  size: 168, 69
+  orig: 168, 69
+  offset: 0, 0
+  index: -1
+pt/受击 拷贝
+  rotate: false
+  xy: 601, 174
+  size: 50, 34
+  orig: 58, 39
+  offset: 5, 1
+  index: -1
+pt/攻击嘴型
+  rotate: true
+  xy: 563, 545
+  size: 16, 12
+  orig: 18, 14
+  offset: 1, 1
+  index: -1
+pt/眩晕 拷贝
+  rotate: false
+  xy: 546, 175
+  size: 53, 33
+  orig: 55, 40
+  offset: 1, 1
+  index: -1
+pt/阴影
+  rotate: false
+  xy: 551, 210
+  size: 110, 30
+  orig: 114, 33
+  offset: 2, 1
+  index: -1

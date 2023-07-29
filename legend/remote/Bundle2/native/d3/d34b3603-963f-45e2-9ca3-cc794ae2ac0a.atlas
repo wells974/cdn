@@ -1,0 +1,671 @@
+
+leina.png
+size: 1632,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pt/body
+  rotate: false
+  xy: 1040, 297
+  size: 53, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00001.png
+  rotate: true
+  xy: 868, 361
+  size: 160, 55
+  orig: 164, 56
+  offset: 2, 1
+  index: -1
+pt/eff/法阵/PS/法阵_00002.png
+  rotate: true
+  xy: 1236, 139
+  size: 160, 54
+  orig: 162, 55
+  offset: 1, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00003.png
+  rotate: true
+  xy: 837, 130
+  size: 160, 55
+  orig: 164, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00004.png
+  rotate: false
+  xy: 1253, 305
+  size: 160, 54
+  orig: 164, 55
+  offset: 4, 1
+  index: -1
+pt/eff/法阵/PS/法阵_00005.png
+  rotate: true
+  xy: 1267, 361
+  size: 160, 54
+  orig: 164, 55
+  offset: 3, 1
+  index: -1
+pt/eff/法阵/PS/法阵_00006.png
+  rotate: true
+  xy: 781, 127
+  size: 161, 54
+  orig: 165, 55
+  offset: 3, 1
+  index: -1
+pt/eff/法阵/PS/法阵_00007.png
+  rotate: true
+  xy: 412, 360
+  size: 161, 55
+  orig: 165, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00008.png
+  rotate: true
+  xy: 325, 121
+  size: 161, 55
+  orig: 165, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00009.png
+  rotate: true
+  xy: 382, 121
+  size: 161, 55
+  orig: 165, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00010.png
+  rotate: true
+  xy: 439, 121
+  size: 161, 55
+  orig: 165, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00011.png
+  rotate: true
+  xy: 469, 360
+  size: 161, 55
+  orig: 165, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00012.png
+  rotate: true
+  xy: 496, 123
+  size: 161, 55
+  orig: 165, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00013.png
+  rotate: true
+  xy: 526, 360
+  size: 161, 55
+  orig: 165, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00014.png
+  rotate: true
+  xy: 211, 114
+  size: 162, 55
+  orig: 165, 55
+  offset: 2, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00015.png
+  rotate: true
+  xy: 583, 360
+  size: 161, 55
+  orig: 165, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00016.png
+  rotate: true
+  xy: 640, 360
+  size: 161, 55
+  orig: 165, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00017.png
+  rotate: true
+  xy: 553, 124
+  size: 161, 55
+  orig: 165, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00018.png
+  rotate: true
+  xy: 610, 124
+  size: 161, 55
+  orig: 165, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00019.png
+  rotate: true
+  xy: 697, 360
+  size: 161, 55
+  orig: 165, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00020.png
+  rotate: true
+  xy: 667, 124
+  size: 161, 55
+  orig: 165, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00021.png
+  rotate: true
+  xy: 724, 124
+  size: 161, 55
+  orig: 165, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00022.png
+  rotate: true
+  xy: 754, 360
+  size: 161, 55
+  orig: 165, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00023.png
+  rotate: true
+  xy: 268, 114
+  size: 162, 55
+  orig: 165, 55
+  offset: 2, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00024.png
+  rotate: true
+  xy: 811, 360
+  size: 161, 55
+  orig: 164, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00025.png
+  rotate: true
+  xy: 925, 361
+  size: 160, 55
+  orig: 165, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00026.png
+  rotate: true
+  xy: 982, 361
+  size: 160, 55
+  orig: 165, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00027.png
+  rotate: true
+  xy: 1323, 361
+  size: 160, 54
+  orig: 165, 55
+  offset: 3, 1
+  index: -1
+pt/eff/法阵/PS/法阵_00028.png
+  rotate: true
+  xy: 1379, 361
+  size: 160, 54
+  orig: 165, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00029.png
+  rotate: true
+  xy: 1292, 143
+  size: 160, 54
+  orig: 164, 57
+  offset: 2, 1
+  index: -1
+pt/eff/法阵/PS/法阵_00030.png
+  rotate: true
+  xy: 1348, 143
+  size: 160, 54
+  orig: 165, 56
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00031.png
+  rotate: true
+  xy: 1039, 361
+  size: 160, 55
+  orig: 165, 56
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00032.png
+  rotate: true
+  xy: 894, 134
+  size: 160, 55
+  orig: 164, 56
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00033.png
+  rotate: true
+  xy: 951, 134
+  size: 160, 55
+  orig: 164, 57
+  offset: 3, 1
+  index: -1
+pt/eff/法阵/PS/法阵_00034.png
+  rotate: true
+  xy: 1008, 134
+  size: 160, 55
+  orig: 165, 57
+  offset: 3, 1
+  index: -1
+pt/eff/法阵/PS/法阵_00035.png
+  rotate: true
+  xy: 1065, 135
+  size: 160, 55
+  orig: 165, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00036.png
+  rotate: true
+  xy: 1096, 361
+  size: 160, 55
+  orig: 165, 57
+  offset: 3, 1
+  index: -1
+pt/eff/法阵/PS/法阵_00037.png
+  rotate: true
+  xy: 1153, 361
+  size: 160, 55
+  orig: 165, 57
+  offset: 3, 1
+  index: -1
+pt/eff/法阵/PS/法阵_00038.png
+  rotate: true
+  xy: 1210, 361
+  size: 160, 55
+  orig: 163, 55
+  offset: 3, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00039.png
+  rotate: true
+  xy: 1122, 139
+  size: 160, 55
+  orig: 163, 55
+  offset: 2, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00040.png
+  rotate: true
+  xy: 1179, 139
+  size: 160, 55
+  orig: 163, 56
+  offset: 2, 1
+  index: -1
+pt/eff/法阵/PS/法阵_00041.png
+  rotate: true
+  xy: 1404, 144
+  size: 159, 54
+  orig: 162, 55
+  offset: 2, 0
+  index: -1
+pt/eff/法阵/PS/法阵_00042.png
+  rotate: false
+  xy: 1415, 305
+  size: 159, 54
+  orig: 162, 56
+  offset: 1, 1
+  index: -1
+pt/eff/法阵/PS/法阵_00043.png
+  rotate: true
+  xy: 1435, 362
+  size: 159, 54
+  orig: 164, 56
+  offset: 3, 2
+  index: -1
+pt/eff/波动/合成 1/波动_00010
+  rotate: true
+  xy: 447, 286
+  size: 72, 69
+  orig: 86, 75
+  offset: 7, 3
+  index: -1
+pt/eff/波动/合成 1/波动_00011
+  rotate: true
+  xy: 84, 276
+  size: 76, 73
+  orig: 88, 78
+  offset: 6, 2
+  index: -1
+pt/eff/波动/合成 1/波动_00012
+  rotate: false
+  xy: 1491, 441
+  size: 82, 80
+  orig: 94, 84
+  offset: 6, 2
+  index: -1
+pt/eff/波动/合成 1/波动_00013
+  rotate: true
+  xy: 1545, 96
+  size: 90, 85
+  orig: 102, 90
+  offset: 6, 3
+  index: -1
+pt/eff/波动/合成 1/波动_00014
+  rotate: false
+  xy: 2, 3
+  size: 114, 98
+  orig: 124, 102
+  offset: 5, 0
+  index: -1
+pt/eff/波动/合成 1/波动_00015
+  rotate: false
+  xy: 118, 2
+  size: 112, 103
+  orig: 122, 107
+  offset: 5, 0
+  index: -1
+pt/eff/波动/合成 1/波动_00016
+  rotate: true
+  xy: 232, 4
+  size: 108, 105
+  orig: 119, 108
+  offset: 6, 0
+  index: -1
+pt/eff/波动/合成 1/波动_00017
+  rotate: false
+  xy: 1291, 32
+  size: 103, 105
+  orig: 115, 109
+  offset: 6, 1
+  index: -1
+pt/eff/波动/合成 1/波动_00018
+  rotate: false
+  xy: 714, 14
+  size: 98, 108
+  orig: 110, 110
+  offset: 6, 1
+  index: -1
+pt/eff/波动/合成 1/波动_00019
+  rotate: false
+  xy: 469, 7
+  size: 97, 112
+  orig: 106, 115
+  offset: 5, 1
+  index: -1
+pt/eff/波动/合成 1/波动_00020
+  rotate: false
+  xy: 374, 6
+  size: 93, 113
+  orig: 101, 118
+  offset: 4, 2
+  index: -1
+pt/eff/波动/合成 1/波动_00021
+  rotate: false
+  xy: 814, 4
+  size: 90, 121
+  orig: 97, 126
+  offset: 3, 2
+  index: -1
+pt/eff/波动/合成 1/波动_00022
+  rotate: false
+  xy: 1119, 7
+  size: 88, 126
+  orig: 95, 128
+  offset: 3, 1
+  index: -1
+pt/eff/波动/合成 1/波动_00023
+  rotate: false
+  xy: 1033, 3
+  size: 84, 129
+  orig: 92, 131
+  offset: 4, 1
+  index: -1
+pt/eff/波动/合成 1/波动_00024
+  rotate: false
+  xy: 1209, 4
+  size: 80, 133
+  orig: 88, 137
+  offset: 4, 2
+  index: -1
+pt/eff/波动/合成 1/波动_00025
+  rotate: true
+  xy: 159, 278
+  size: 75, 141
+  orig: 82, 144
+  offset: 3, 1
+  index: -1
+pt/eff/波动/合成 1/波动_00026
+  rotate: true
+  xy: 302, 284
+  size: 73, 143
+  orig: 80, 146
+  offset: 3, 1
+  index: -1
+pt/eff/波动/合成 1/波动_00027
+  rotate: true
+  xy: 518, 287
+  size: 71, 144
+  orig: 77, 148
+  offset: 3, 2
+  index: -1
+pt/eff/波动/合成 1/波动_00028
+  rotate: true
+  xy: 887, 296
+  size: 63, 151
+  orig: 69, 156
+  offset: 3, 3
+  index: -1
+pt/eff/波动/合成 1/波动_00029
+  rotate: true
+  xy: 1095, 301
+  size: 58, 156
+  orig: 66, 160
+  offset: 4, 3
+  index: -1
+pt/eff/波动/合成 1/波动_00030
+  rotate: false
+  xy: 1576, 371
+  size: 54, 150
+  orig: 63, 156
+  offset: 4, 4
+  index: -1
+pt/eff/波动/合成 1/波动_00031
+  rotate: false
+  xy: 1460, 150
+  size: 51, 153
+  orig: 61, 159
+  offset: 5, 3
+  index: -1
+pt/eff/波动/合成 1/波动_00032
+  rotate: false
+  xy: 84, 354
+  size: 44, 167
+  orig: 56, 170
+  offset: 6, 2
+  index: -1
+pt/eff/波动/合成 1/波动_00033
+  rotate: false
+  xy: 40, 106
+  size: 37, 168
+  orig: 50, 170
+  offset: 5, 1
+  index: -1
+pt/eff/波动/合成 1/波动_00034
+  rotate: false
+  xy: 2, 103
+  size: 36, 171
+  orig: 44, 176
+  offset: 2, 3
+  index: -1
+pt/eff/波动/合成 1/波动_00035
+  rotate: false
+  xy: 165, 356
+  size: 32, 165
+  orig: 36, 172
+  offset: 0, 4
+  index: -1
+pt/eff/波动/合成 1/波动_00036
+  rotate: false
+  xy: 130, 355
+  size: 33, 166
+  orig: 37, 172
+  offset: 0, 3
+  index: -1
+pt/eff/波动/合成 1/波动_00037
+  rotate: false
+  xy: 199, 357
+  size: 32, 164
+  orig: 37, 169
+  offset: 0, 1
+  index: -1
+pt/eff/波动/合成 1/波动_00038
+  rotate: false
+  xy: 233, 358
+  size: 27, 163
+  orig: 35, 167
+  offset: 0, 0
+  index: -1
+pt/eff/波动/合成 1/波动_00039
+  rotate: true
+  xy: 1291, 6
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+pt/eyes
+  rotate: true
+  xy: 1545, 3
+  size: 91, 44
+  orig: 91, 44
+  offset: 0, 0
+  index: -1
+pt/haed
+  rotate: false
+  xy: 568, 4
+  size: 144, 118
+  orig: 144, 118
+  offset: 0, 0
+  index: -1
+pt/l-arm
+  rotate: true
+  xy: 1396, 3
+  size: 35, 93
+  orig: 35, 93
+  offset: 0, 0
+  index: -1
+pt/l-eye
+  rotate: false
+  xy: 1323, 9
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+pt/l-leg
+  rotate: true
+  xy: 1491, 399
+  size: 40, 81
+  orig: 40, 81
+  offset: 0, 0
+  index: -1
+pt/pifeng
+  rotate: true
+  xy: 79, 107
+  size: 167, 130
+  orig: 167, 130
+  offset: 0, 0
+  index: -1
+pt/pifeng-qianmian
+  rotate: false
+  xy: 736, 290
+  size: 98, 68
+  orig: 135, 97
+  offset: 19, 29
+  index: -1
+pt/qunzi
+  rotate: true
+  xy: 1450, 46
+  size: 96, 93
+  orig: 99, 161
+  offset: 0, 31
+  index: -1
+pt/qunzi-qian
+  rotate: true
+  xy: 906, 2
+  size: 130, 125
+  orig: 130, 144
+  offset: 0, 0
+  index: -1
+pt/r-arm
+  rotate: false
+  xy: 836, 292
+  size: 49, 66
+  orig: 49, 69
+  offset: 0, 3
+  index: -1
+pt/r-eye
+  rotate: false
+  xy: 1346, 10
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+pt/r-leg
+  rotate: true
+  xy: 1491, 367
+  size: 30, 81
+  orig: 30, 81
+  offset: 0, 0
+  index: -1
+pt/剑
+  rotate: true
+  xy: 2, 276
+  size: 245, 80
+  orig: 245, 80
+  offset: 0, 0
+  index: -1
+pt/受击 拷贝
+  rotate: false
+  xy: 1491, 10
+  size: 50, 34
+  orig: 58, 39
+  offset: 5, 1
+  index: -1
+pt/头发1
+  rotate: false
+  xy: 1576, 188
+  size: 52, 146
+  orig: 75, 147
+  offset: 0, 0
+  index: -1
+pt/头发2
+  rotate: false
+  xy: 1396, 40
+  size: 52, 101
+  orig: 53, 102
+  offset: 1, 1
+  index: -1
+pt/头发3
+  rotate: false
+  xy: 664, 287
+  size: 70, 71
+  orig: 71, 72
+  offset: 1, 0
+  index: -1
+pt/头发4
+  rotate: false
+  xy: 262, 359
+  size: 148, 162
+  orig: 148, 166
+  offset: 0, 4
+  index: -1
+pt/攻击嘴型
+  rotate: true
+  xy: 1362, 14
+  size: 16, 12
+  orig: 18, 14
+  offset: 1, 1
+  index: -1
+pt/眩晕 拷贝
+  rotate: false
+  xy: 1576, 336
+  size: 53, 33
+  orig: 55, 40
+  offset: 1, 1
+  index: -1
+pt/阴影
+  rotate: true
+  xy: 339, 5
+  size: 114, 33
+  orig: 114, 33
+  offset: 0, 0
+  index: -1

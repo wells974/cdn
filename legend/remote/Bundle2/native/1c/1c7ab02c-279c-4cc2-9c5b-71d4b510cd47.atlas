@@ -1,0 +1,510 @@
+
+luxifa.png
+size: 1981,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/发光/发光/发光_00001
+  rotate: true
+  xy: 36, 11
+  size: 11, 52
+  orig: 139, 165
+  offset: 64, 8
+  index: -1
+eff/发光/发光/发光_00002
+  rotate: true
+  xy: 402, 260
+  size: 67, 70
+  orig: 139, 165
+  offset: 36, 0
+  index: -1
+eff/发光/发光/发光_00003
+  rotate: true
+  xy: 1630, 27
+  size: 99, 84
+  orig: 139, 165
+  offset: 20, 0
+  index: -1
+eff/发光/发光/发光_00004
+  rotate: false
+  xy: 873, 259
+  size: 113, 98
+  orig: 139, 165
+  offset: 13, 0
+  index: -1
+eff/发光/发光/发光_00005
+  rotate: false
+  xy: 1175, 4
+  size: 118, 107
+  orig: 139, 165
+  offset: 11, 0
+  index: -1
+eff/发光/发光/发光_00006
+  rotate: false
+  xy: 1227, 261
+  size: 120, 113
+  orig: 139, 165
+  offset: 10, 2
+  index: -1
+eff/发光/发光/发光_00007
+  rotate: false
+  xy: 988, 260
+  size: 121, 114
+  orig: 139, 165
+  offset: 9, 5
+  index: -1
+eff/发光/发光/发光_00008
+  rotate: false
+  xy: 1295, 5
+  size: 122, 106
+  orig: 139, 165
+  offset: 9, 8
+  index: -1
+eff/发光/发光/发光_00009
+  rotate: false
+  xy: 1419, 7
+  size: 121, 105
+  orig: 139, 165
+  offset: 9, 8
+  index: -1
+eff/发光/发光/发光_00010
+  rotate: false
+  xy: 1471, 272
+  size: 120, 102
+  orig: 139, 165
+  offset: 10, 8
+  index: -1
+eff/发光/发光/发光_00011
+  rotate: false
+  xy: 1593, 276
+  size: 118, 99
+  orig: 139, 165
+  offset: 11, 8
+  index: -1
+eff/发光/发光/发光_00012
+  rotate: false
+  xy: 971, 4
+  size: 115, 94
+  orig: 139, 165
+  offset: 13, 8
+  index: -1
+eff/发光/发光/发光_00013
+  rotate: true
+  xy: 1088, 2
+  size: 109, 85
+  orig: 139, 165
+  offset: 16, 8
+  index: -1
+eff/发光/发光/发光_00014
+  rotate: false
+  xy: 365, 4
+  size: 92, 54
+  orig: 139, 165
+  offset: 25, 11
+  index: -1
+eff/汇聚/汇聚/汇聚_00000
+  rotate: false
+  xy: 153, 312
+  size: 191, 209
+  orig: 208, 211
+  offset: 2, 0
+  index: -1
+eff/汇聚/汇聚/汇聚_00001
+  rotate: false
+  xy: 175, 54
+  size: 184, 202
+  orig: 208, 211
+  offset: 4, 0
+  index: -1
+eff/汇聚/汇聚/汇聚_00002
+  rotate: false
+  xy: 361, 60
+  size: 183, 197
+  orig: 208, 211
+  offset: 7, 0
+  index: -1
+eff/汇聚/汇聚/汇聚_00003
+  rotate: false
+  xy: 346, 329
+  size: 174, 192
+  orig: 208, 211
+  offset: 11, 0
+  index: -1
+eff/汇聚/汇聚/汇聚_00004
+  rotate: false
+  xy: 522, 336
+  size: 169, 185
+  orig: 208, 211
+  offset: 14, 1
+  index: -1
+eff/汇聚/汇聚/汇聚_00005
+  rotate: false
+  xy: 546, 74
+  size: 165, 183
+  orig: 208, 211
+  offset: 16, 1
+  index: -1
+eff/汇聚/汇聚/汇聚_00006
+  rotate: false
+  xy: 693, 343
+  size: 159, 178
+  orig: 208, 211
+  offset: 20, 1
+  index: -1
+eff/汇聚/汇聚/汇聚_00007
+  rotate: false
+  xy: 713, 87
+  size: 157, 170
+  orig: 208, 211
+  offset: 24, 3
+  index: -1
+eff/汇聚/汇聚/汇聚_00008
+  rotate: false
+  xy: 872, 100
+  size: 152, 157
+  orig: 208, 211
+  offset: 29, 9
+  index: -1
+eff/汇聚/汇聚/汇聚_00009
+  rotate: false
+  xy: 1650, 380
+  size: 139, 141
+  orig: 208, 211
+  offset: 40, 14
+  index: -1
+eff/汇聚/汇聚/汇聚_00010
+  rotate: false
+  xy: 1716, 3
+  size: 133, 133
+  orig: 208, 211
+  offset: 43, 19
+  index: -1
+eff/汇聚/汇聚/汇聚_00011
+  rotate: false
+  xy: 1851, 393
+  size: 128, 128
+  orig: 208, 211
+  offset: 46, 21
+  index: -1
+eff/汇聚/汇聚/汇聚_00012
+  rotate: true
+  xy: 761, 5
+  size: 80, 84
+  orig: 208, 211
+  offset: 69, 54
+  index: -1
+eff/汇聚/汇聚/汇聚_00013
+  rotate: true
+  xy: 785, 259
+  size: 82, 86
+  orig: 208, 211
+  offset: 68, 53
+  index: -1
+eff/汇聚/汇聚/汇聚_00014
+  rotate: true
+  xy: 695, 259
+  size: 82, 88
+  orig: 208, 211
+  offset: 68, 52
+  index: -1
+eff/汇聚/汇聚/汇聚_00015
+  rotate: false
+  xy: 1713, 290
+  size: 84, 88
+  orig: 208, 211
+  offset: 67, 52
+  index: -1
+eff/汇聚/汇聚/汇聚_00016
+  rotate: false
+  xy: 1851, 45
+  size: 84, 88
+  orig: 208, 211
+  offset: 67, 52
+  index: -1
+eff/背光/背光/背光_00001
+  rotate: false
+  xy: 583, 8
+  size: 64, 64
+  orig: 145, 133
+  offset: 40, 35
+  index: -1
+eff/背光/背光/背光_00002
+  rotate: false
+  xy: 872, 2
+  size: 97, 96
+  orig: 145, 133
+  offset: 23, 19
+  index: -1
+eff/背光/背光/背光_00003
+  rotate: false
+  xy: 1851, 135
+  size: 126, 126
+  orig: 145, 133
+  offset: 9, 4
+  index: -1
+eff/背光/背光/背光_00004
+  rotate: true
+  xy: 1431, 116
+  size: 144, 133
+  orig: 145, 133
+  offset: 0, 0
+  index: -1
+eff/背光/背光/背光_00005
+  rotate: true
+  xy: 975, 376
+  size: 145, 133
+  orig: 145, 133
+  offset: 0, 0
+  index: -1
+eff/背光/背光/背光_00006
+  rotate: true
+  xy: 1110, 376
+  size: 145, 133
+  orig: 145, 133
+  offset: 0, 0
+  index: -1
+eff/背光/背光/背光_00007
+  rotate: true
+  xy: 1026, 113
+  size: 145, 133
+  orig: 145, 133
+  offset: 0, 0
+  index: -1
+eff/背光/背光/背光_00008
+  rotate: true
+  xy: 1161, 113
+  size: 145, 133
+  orig: 145, 133
+  offset: 0, 0
+  index: -1
+eff/背光/背光/背光_00009
+  rotate: true
+  xy: 1245, 376
+  size: 145, 133
+  orig: 145, 133
+  offset: 0, 0
+  index: -1
+eff/背光/背光/背光_00010
+  rotate: true
+  xy: 1296, 114
+  size: 145, 133
+  orig: 145, 133
+  offset: 0, 0
+  index: -1
+eff/背光/背光/背光_00011
+  rotate: true
+  xy: 1380, 376
+  size: 145, 133
+  orig: 145, 133
+  offset: 0, 0
+  index: -1
+eff/背光/背光/背光_00012
+  rotate: true
+  xy: 1515, 377
+  size: 144, 133
+  orig: 145, 133
+  offset: 0, 0
+  index: -1
+eff/背光/背光/背光_00013
+  rotate: true
+  xy: 1566, 128
+  size: 142, 133
+  orig: 145, 133
+  offset: 1, 0
+  index: -1
+eff/背光/背光/背光_00014
+  rotate: true
+  xy: 1701, 138
+  size: 136, 133
+  orig: 145, 133
+  offset: 4, 0
+  index: -1
+eff/背光/背光/背光_00015
+  rotate: false
+  xy: 1851, 263
+  size: 128, 128
+  orig: 145, 133
+  offset: 8, 3
+  index: -1
+eff/背光/背光/背光_00016
+  rotate: false
+  xy: 1111, 260
+  size: 114, 114
+  orig: 145, 133
+  offset: 15, 10
+  index: -1
+eff/背光/背光/背光_00017
+  rotate: false
+  xy: 22, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eff/发光/发光/发光_00000
+  rotate: false
+  xy: 22, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eff/发光/发光/发光_00015
+  rotate: false
+  xy: 22, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eff/背光/背光/背光_00000
+  rotate: false
+  xy: 22, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pt/arm-l
+  rotate: true
+  xy: 494, 24
+  size: 34, 87
+  orig: 37, 100
+  offset: 2, 0
+  index: -1
+pt/arm-r
+  rotate: false
+  xy: 474, 262
+  size: 58, 65
+  orig: 58, 65
+  offset: 0, 0
+  index: -1
+pt/body
+  rotate: false
+  xy: 854, 359
+  size: 119, 162
+  orig: 121, 163
+  offset: 1, 0
+  index: -1
+pt/eye-l
+  rotate: false
+  xy: 2, 2
+  size: 18, 20
+  orig: 20, 22
+  offset: 1, 1
+  index: -1
+pt/eye-r
+  rotate: false
+  xy: 609, 281
+  size: 22, 23
+  orig: 25, 25
+  offset: 2, 1
+  index: -1
+pt/eyes
+  rotate: false
+  xy: 288, 13
+  size: 75, 39
+  orig: 91, 43
+  offset: 15, 3
+  index: -1
+pt/hair1
+  rotate: true
+  xy: 97, 258
+  size: 49, 148
+  orig: 53, 160
+  offset: 2, 11
+  index: -1
+pt/hair2
+  rotate: true
+  xy: 175, 4
+  size: 48, 111
+  orig: 86, 144
+  offset: 37, 1
+  index: -1
+pt/hair3
+  rotate: false
+  xy: 534, 259
+  size: 73, 75
+  orig: 81, 76
+  offset: 7, 0
+  index: -1
+pt/head
+  rotate: true
+  xy: 1349, 262
+  size: 112, 120
+  orig: 118, 122
+  offset: 1, 0
+  index: -1
+pt/leg-l
+  rotate: true
+  xy: 649, 40
+  size: 32, 89
+  orig: 45, 92
+  offset: 13, 0
+  index: -1
+pt/leg-r
+  rotate: true
+  xy: 609, 306
+  size: 28, 84
+  orig: 28, 84
+  offset: 0, 0
+  index: -1
+pt/other
+  rotate: false
+  xy: 2, 24
+  size: 171, 231
+  orig: 173, 231
+  offset: 1, 0
+  index: -1
+pt/qunziwei
+  rotate: true
+  xy: 1542, 3
+  size: 111, 86
+  orig: 117, 87
+  offset: 5, 1
+  index: -1
+pt/weapon
+  rotate: true
+  xy: 2, 257
+  size: 264, 57
+  orig: 264, 57
+  offset: 0, 0
+  index: -1
+pt/zhuangshi1
+  rotate: false
+  xy: 61, 309
+  size: 90, 212
+  orig: 90, 212
+  offset: 0, 0
+  index: -1
+pt/zhuangshi2
+  rotate: true
+  xy: 247, 259
+  size: 51, 153
+  orig: 52, 154
+  offset: 1, 1
+  index: -1
+pt/受击 拷贝
+  rotate: true
+  xy: 61, 257
+  size: 50, 34
+  orig: 58, 39
+  offset: 5, 1
+  index: -1
+pt/攻击嘴型
+  rotate: true
+  xy: 22, 6
+  size: 16, 12
+  orig: 18, 14
+  offset: 1, 1
+  index: -1
+pt/眩晕 拷贝
+  rotate: true
+  xy: 459, 5
+  size: 53, 33
+  orig: 55, 40
+  offset: 1, 1
+  index: -1
+pt/阴影
+  rotate: false
+  xy: 649, 8
+  size: 110, 30
+  orig: 114, 33
+  offset: 2, 1
+  index: -1

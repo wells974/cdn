@@ -1,0 +1,685 @@
+
+shaxia.png
+size: 824,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/冒火1/冒火1/冒火1_00000
+  rotate: true
+  xy: 567, 159
+  size: 61, 81
+  orig: 130, 160
+  offset: 36, 0
+  index: -1
+eff/冒火1/冒火1/冒火1_00001
+  rotate: true
+  xy: 568, 96
+  size: 61, 81
+  orig: 130, 160
+  offset: 36, 0
+  index: -1
+eff/冒火1/冒火1/冒火1_00002
+  rotate: false
+  xy: 511, 382
+  size: 94, 110
+  orig: 130, 160
+  offset: 18, 0
+  index: -1
+eff/冒火1/冒火1/冒火1_00003
+  rotate: true
+  xy: 582, 494
+  size: 102, 116
+  orig: 130, 160
+  offset: 15, 4
+  index: -1
+eff/冒火1/冒火1/冒火1_00004
+  rotate: false
+  xy: 143, 453
+  size: 109, 123
+  orig: 130, 160
+  offset: 12, 7
+  index: -1
+eff/冒火1/冒火1/冒火1_00005
+  rotate: true
+  xy: 456, 570
+  size: 111, 124
+  orig: 130, 160
+  offset: 11, 11
+  index: -1
+eff/冒火1/冒火1/冒火1_00006
+  rotate: true
+  xy: 254, 465
+  size: 111, 124
+  orig: 130, 160
+  offset: 11, 11
+  index: -1
+eff/冒火1/冒火1/冒火1_00007
+  rotate: false
+  xy: 465, 766
+  size: 114, 126
+  orig: 130, 160
+  offset: 10, 15
+  index: -1
+eff/冒火1/冒火1/冒火1_00008
+  rotate: false
+  xy: 581, 775
+  size: 118, 126
+  orig: 130, 160
+  offset: 8, 17
+  index: -1
+eff/冒火1/冒火1/冒火1_00009
+  rotate: false
+  xy: 341, 762
+  size: 122, 127
+  orig: 130, 160
+  offset: 6, 19
+  index: -1
+eff/冒火1/冒火1/冒火1_00010
+  rotate: false
+  xy: 130, 67
+  size: 123, 125
+  orig: 130, 160
+  offset: 5, 23
+  index: -1
+eff/冒火1/冒火1/冒火1_00011
+  rotate: false
+  xy: 131, 194
+  size: 123, 125
+  orig: 130, 160
+  offset: 5, 23
+  index: -1
+eff/冒火1/冒火1/冒火1_00012
+  rotate: false
+  xy: 385, 380
+  size: 124, 124
+  orig: 130, 160
+  offset: 4, 25
+  index: -1
+eff/冒火1/冒火1/冒火1_00013
+  rotate: false
+  xy: 255, 67
+  size: 124, 125
+  orig: 130, 160
+  offset: 4, 27
+  index: -1
+eff/冒火1/冒火1/冒火1_00014
+  rotate: false
+  xy: 574, 903
+  size: 126, 127
+  orig: 130, 160
+  offset: 3, 28
+  index: -1
+eff/冒火1/冒火1/冒火1_00015
+  rotate: false
+  xy: 2, 67
+  size: 126, 125
+  orig: 130, 160
+  offset: 3, 30
+  index: -1
+eff/冒火1/冒火1/冒火1_00016
+  rotate: true
+  xy: 256, 194
+  size: 126, 125
+  orig: 130, 160
+  offset: 3, 30
+  index: -1
+eff/冒火1/冒火1/冒火1_00017
+  rotate: false
+  xy: 2, 194
+  size: 127, 125
+  orig: 130, 160
+  offset: 2, 31
+  index: -1
+eff/冒火1/冒火1/冒火1_00018
+  rotate: true
+  xy: 702, 905
+  size: 125, 120
+  orig: 130, 160
+  offset: 2, 36
+  index: -1
+eff/冒火1/冒火1/冒火1_00019
+  rotate: true
+  xy: 582, 598
+  size: 124, 117
+  orig: 130, 160
+  offset: 2, 39
+  index: -1
+eff/冒火1/冒火1/冒火1_00020
+  rotate: false
+  xy: 701, 791
+  size: 121, 110
+  orig: 130, 160
+  offset: 3, 46
+  index: -1
+eff/冒火1/冒火1/冒火1_00021
+  rotate: false
+  xy: 701, 679
+  size: 121, 110
+  orig: 130, 160
+  offset: 3, 46
+  index: -1
+eff/冒火1/冒火1/冒火1_00022
+  rotate: false
+  xy: 701, 568
+  size: 117, 109
+  orig: 130, 160
+  offset: 3, 47
+  index: -1
+eff/冒火1/冒火1/冒火1_00023
+  rotate: false
+  xy: 465, 683
+  size: 114, 81
+  orig: 130, 160
+  offset: 3, 75
+  index: -1
+eff/冒火1/冒火1/冒火1_00024
+  rotate: false
+  xy: 700, 493
+  size: 111, 73
+  orig: 130, 160
+  offset: 4, 83
+  index: -1
+eff/冒火1/冒火1/冒火1_00025
+  rotate: false
+  xy: 517, 320
+  size: 105, 60
+  orig: 130, 160
+  offset: 6, 96
+  index: -1
+eff/冒火1/冒火1/冒火1_00026
+  rotate: false
+  xy: 517, 320
+  size: 105, 60
+  orig: 130, 160
+  offset: 6, 96
+  index: -1
+eff/冒火2/冒火2/冒火2_00000
+  rotate: true
+  xy: 788, 370
+  size: 73, 34
+  orig: 156, 71
+  offset: 40, 25
+  index: -1
+eff/冒火2/冒火2/冒火2_00001
+  rotate: false
+  xy: 651, 216
+  size: 73, 34
+  orig: 156, 71
+  offset: 40, 25
+  index: -1
+eff/冒火2/冒火2/冒火2_00002
+  rotate: false
+  xy: 492, 276
+  size: 98, 42
+  orig: 156, 71
+  offset: 28, 20
+  index: -1
+eff/冒火2/冒火2/冒火2_00003
+  rotate: false
+  xy: 581, 724
+  size: 118, 49
+  orig: 156, 71
+  offset: 17, 16
+  index: -1
+eff/冒火2/冒火2/冒火2_00004
+  rotate: false
+  xy: 385, 325
+  size: 130, 53
+  orig: 156, 71
+  offset: 12, 13
+  index: -1
+eff/冒火2/冒火2/冒火2_00005
+  rotate: true
+  xy: 263, 322
+  size: 141, 59
+  orig: 156, 71
+  offset: 6, 10
+  index: -1
+eff/冒火2/冒火2/冒火2_00006
+  rotate: true
+  xy: 324, 322
+  size: 141, 59
+  orig: 156, 71
+  offset: 6, 10
+  index: -1
+eff/冒火2/冒火2/冒火2_00007
+  rotate: false
+  xy: 380, 506
+  size: 143, 62
+  orig: 156, 71
+  offset: 5, 8
+  index: -1
+eff/冒火2/冒火2/冒火2_00008
+  rotate: false
+  xy: 308, 2
+  size: 147, 63
+  orig: 156, 71
+  offset: 3, 7
+  index: -1
+eff/冒火2/冒火2/冒火2_00009
+  rotate: false
+  xy: 158, 2
+  size: 148, 63
+  orig: 156, 71
+  offset: 2, 7
+  index: -1
+eff/冒火2/冒火2/冒火2_00010
+  rotate: true
+  xy: 147, 731
+  size: 151, 64
+  orig: 156, 71
+  offset: 1, 6
+  index: -1
+eff/冒火2/冒火2/冒火2_00011
+  rotate: true
+  xy: 145, 578
+  size: 151, 64
+  orig: 156, 71
+  offset: 1, 6
+  index: -1
+eff/冒火2/冒火2/冒火2_00012
+  rotate: true
+  xy: 268, 580
+  size: 152, 64
+  orig: 156, 71
+  offset: 0, 6
+  index: -1
+eff/冒火2/冒火2/冒火2_00013
+  rotate: true
+  xy: 213, 735
+  size: 153, 64
+  orig: 156, 71
+  offset: 0, 6
+  index: -1
+eff/冒火2/冒火2/冒火2_00014
+  rotate: false
+  xy: 2, 2
+  size: 154, 63
+  orig: 156, 71
+  offset: 0, 6
+  index: -1
+eff/冒火2/冒火2/冒火2_00015
+  rotate: true
+  xy: 279, 734
+  size: 154, 60
+  orig: 156, 71
+  offset: 0, 6
+  index: -1
+eff/冒火2/冒火2/冒火2_00016
+  rotate: true
+  xy: 334, 578
+  size: 154, 60
+  orig: 156, 71
+  offset: 0, 6
+  index: -1
+eff/冒火2/冒火2/冒火2_00017
+  rotate: true
+  xy: 396, 607
+  size: 153, 58
+  orig: 156, 71
+  offset: 0, 6
+  index: -1
+eff/冒火2/冒火2/冒火2_00018
+  rotate: true
+  xy: 211, 578
+  size: 151, 55
+  orig: 156, 71
+  offset: 0, 6
+  index: -1
+eff/冒火2/冒火2/冒火2_00019
+  rotate: false
+  xy: 624, 333
+  size: 148, 51
+  orig: 156, 71
+  offset: 1, 6
+  index: -1
+eff/冒火2/冒火2/冒火2_00020
+  rotate: false
+  xy: 680, 445
+  size: 138, 46
+  orig: 156, 71
+  offset: 8, 7
+  index: -1
+eff/冒火2/冒火2/冒火2_00021
+  rotate: false
+  xy: 680, 445
+  size: 138, 46
+  orig: 156, 71
+  offset: 8, 7
+  index: -1
+eff/发光/发光/发光_00001
+  rotate: false
+  xy: 740, 178
+  size: 37, 37
+  orig: 165, 161
+  offset: 62, 55
+  index: -1
+eff/发光/发光/发光_00002
+  rotate: false
+  xy: 2, 737
+  size: 143, 145
+  orig: 165, 161
+  offset: 8, 1
+  index: -1
+eff/发光/发光/发光_00003
+  rotate: false
+  xy: 2, 884
+  size: 147, 146
+  orig: 165, 161
+  offset: 7, 1
+  index: -1
+eff/发光/发光/发光_00004
+  rotate: false
+  xy: 294, 891
+  size: 140, 139
+  orig: 165, 161
+  offset: 10, 3
+  index: -1
+eff/发光/发光/发光_00005
+  rotate: false
+  xy: 2, 321
+  size: 136, 133
+  orig: 165, 161
+  offset: 13, 7
+  index: -1
+eff/发光/发光/发光_00006
+  rotate: false
+  xy: 2, 596
+  size: 141, 139
+  orig: 165, 161
+  offset: 10, 4
+  index: -1
+eff/发光/发光/发光_00007
+  rotate: false
+  xy: 151, 890
+  size: 141, 140
+  orig: 165, 161
+  offset: 10, 3
+  index: -1
+eff/发光/发光/发光_00008
+  rotate: false
+  xy: 2, 456
+  size: 139, 138
+  orig: 165, 161
+  offset: 11, 4
+  index: -1
+eff/发光/发光/发光_00009
+  rotate: false
+  xy: 436, 894
+  size: 136, 136
+  orig: 165, 161
+  offset: 13, 5
+  index: -1
+eff/火焰拳/火焰拳/火焰拳_00000
+  rotate: false
+  xy: 722, 99
+  size: 37, 62
+  orig: 138, 62
+  offset: 30, 0
+  index: -1
+eff/火焰拳/火焰拳/火焰拳_00001
+  rotate: false
+  xy: 651, 100
+  size: 69, 61
+  orig: 138, 62
+  offset: 24, 0
+  index: -1
+eff/火焰拳/火焰拳/火焰拳_00002
+  rotate: false
+  xy: 570, 33
+  size: 78, 61
+  orig: 138, 62
+  offset: 22, 0
+  index: -1
+eff/火焰拳/火焰拳/火焰拳_00003
+  rotate: false
+  xy: 381, 81
+  size: 87, 61
+  orig: 138, 62
+  offset: 20, 0
+  index: -1
+eff/火焰拳/火焰拳/火焰拳_00004
+  rotate: false
+  xy: 473, 213
+  size: 89, 61
+  orig: 138, 62
+  offset: 19, 0
+  index: -1
+eff/火焰拳/火焰拳/火焰拳_00005
+  rotate: false
+  xy: 383, 144
+  size: 90, 60
+  orig: 138, 62
+  offset: 19, 0
+  index: -1
+eff/火焰拳/火焰拳/火焰拳_00006
+  rotate: false
+  xy: 475, 153
+  size: 90, 58
+  orig: 138, 62
+  offset: 20, 1
+  index: -1
+eff/火焰拳/火焰拳/火焰拳_00007
+  rotate: false
+  xy: 475, 94
+  size: 91, 57
+  orig: 138, 62
+  offset: 21, 1
+  index: -1
+eff/火焰拳/火焰拳/火焰拳_00008
+  rotate: true
+  xy: 470, 2
+  size: 90, 54
+  orig: 138, 62
+  offset: 22, 3
+  index: -1
+eff/火焰拳/火焰拳/火焰拳_00009
+  rotate: false
+  xy: 650, 163
+  size: 88, 51
+  orig: 138, 62
+  offset: 24, 4
+  index: -1
+eff/火焰拳/火焰拳/火焰拳_00010
+  rotate: false
+  xy: 624, 252
+  size: 89, 47
+  orig: 138, 62
+  offset: 24, 5
+  index: -1
+eff/火焰拳/火焰拳/火焰拳_00011
+  rotate: true
+  xy: 774, 253
+  size: 71, 44
+  orig: 138, 62
+  offset: 42, 8
+  index: -1
+eff/火焰拳/火焰拳/火焰拳_00012
+  rotate: true
+  xy: 718, 27
+  size: 70, 40
+  orig: 138, 62
+  offset: 43, 10
+  index: -1
+eff/火焰拳/火焰拳/火焰拳_00013
+  rotate: true
+  xy: 592, 252
+  size: 66, 30
+  orig: 138, 62
+  offset: 46, 15
+  index: -1
+eff/火焰拳/火焰拳/火焰拳_00014
+  rotate: false
+  xy: 605, 11
+  size: 64, 20
+  orig: 138, 62
+  offset: 46, 20
+  index: -1
+eff/火焰拳/火焰拳/火焰拳_00015
+  rotate: true
+  xy: 760, 35
+  size: 62, 14
+  orig: 138, 62
+  offset: 47, 22
+  index: -1
+eff/火焰拳/火焰拳/火焰拳_00016
+  rotate: true
+  xy: 568, 507
+  size: 61, 8
+  orig: 138, 62
+  offset: 48, 23
+  index: -1
+eff/火焰拳/火焰拳/火焰拳_00017
+  rotate: false
+  xy: 140, 453
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eff/发光/发光/发光_00000
+  rotate: false
+  xy: 140, 453
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eff/发光/发光/发光_00010
+  rotate: false
+  xy: 140, 453
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pt/arm-l
+  rotate: false
+  xy: 736, 272
+  size: 36, 59
+  orig: 37, 60
+  offset: 0, 1
+  index: -1
+pt/arm-r
+  rotate: true
+  xy: 570, 2
+  size: 29, 33
+  orig: 30, 34
+  offset: 1, 0
+  index: -1
+pt/body
+  rotate: false
+  xy: 607, 388
+  size: 71, 104
+  orig: 74, 104
+  offset: 2, 0
+  index: -1
+pt/face1
+  rotate: true
+  xy: 525, 494
+  size: 74, 41
+  orig: 74, 43
+  offset: 0, 1
+  index: -1
+pt/hair1
+  rotate: true
+  xy: 385, 276
+  size: 47, 105
+  orig: 47, 106
+  offset: 0, 0
+  index: -1
+pt/hair2
+  rotate: true
+  xy: 680, 386
+  size: 57, 106
+  orig: 64, 107
+  offset: 7, 0
+  index: -1
+pt/hair3
+  rotate: false
+  xy: 651, 33
+  size: 65, 65
+  orig: 67, 65
+  offset: 1, 0
+  index: -1
+pt/hair4
+  rotate: true
+  xy: 726, 219
+  size: 51, 41
+  orig: 51, 41
+  offset: 0, 0
+  index: -1
+pt/hair5
+  rotate: false
+  xy: 671, 10
+  size: 27, 21
+  orig: 27, 23
+  offset: 0, 1
+  index: -1
+pt/head
+  rotate: false
+  xy: 140, 322
+  size: 121, 129
+  orig: 121, 129
+  offset: 0, 0
+  index: -1
+pt/leg-l
+  rotate: true
+  xy: 564, 222
+  size: 28, 85
+  orig: 32, 85
+  offset: 4, 0
+  index: -1
+pt/leg-r
+  rotate: false
+  xy: 526, 2
+  size: 42, 90
+  orig: 43, 90
+  offset: 0, 0
+  index: -1
+pt/shoutao-l
+  rotate: true
+  xy: 341, 736
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+pt/shoutao-r
+  rotate: true
+  xy: 774, 326
+  size: 42, 48
+  orig: 43, 50
+  offset: 1, 1
+  index: -1
+pt/tail
+  rotate: false
+  xy: 383, 206
+  size: 88, 68
+  orig: 88, 68
+  offset: 0, 0
+  index: -1
+pt/受击 拷贝
+  rotate: false
+  xy: 769, 217
+  size: 50, 34
+  orig: 58, 39
+  offset: 5, 1
+  index: -1
+pt/攻击嘴型
+  rotate: false
+  xy: 381, 67
+  size: 16, 12
+  orig: 18, 14
+  offset: 1, 1
+  index: -1
+pt/眩晕 拷贝
+  rotate: false
+  xy: 396, 572
+  size: 53, 33
+  orig: 55, 40
+  offset: 1, 1
+  index: -1
+pt/阴影
+  rotate: false
+  xy: 624, 301
+  size: 110, 30
+  orig: 114, 33
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,76 @@
+
+niutouren.png
+size: 801,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pt/body
+  rotate: true
+  xy: 440, 3
+  size: 202, 155
+  orig: 225, 162
+  offset: 0, 0
+  index: -1
+pt/head
+  rotate: false
+  xy: 309, 207
+  size: 185, 207
+  orig: 201, 285
+  offset: 16, 35
+  index: -1
+pt/l-arm
+  rotate: true
+  xy: 548, 244
+  size: 170, 137
+  orig: 199, 152
+  offset: 29, 15
+  index: -1
+pt/l-leg
+  rotate: true
+  xy: 687, 310
+  size: 104, 112
+  orig: 121, 114
+  offset: 17, 2
+  index: -1
+pt/qunzi
+  rotate: false
+  xy: 597, 6
+  size: 144, 145
+  orig: 158, 149
+  offset: 14, 4
+  index: -1
+pt/qunzi-hou
+  rotate: false
+  xy: 597, 153
+  size: 88, 89
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+pt/r-arm
+  rotate: false
+  xy: 309, 2
+  size: 129, 203
+  orig: 129, 230
+  offset: 0, 27
+  index: -1
+pt/r-leg
+  rotate: false
+  xy: 687, 177
+  size: 98, 131
+  orig: 98, 131
+  offset: 0, 0
+  index: -1
+pt/weapon
+  rotate: true
+  xy: 2, 9
+  size: 405, 305
+  orig: 405, 356
+  offset: 0, 51
+  index: -1
+pt/阴影
+  rotate: true
+  xy: 496, 232
+  size: 182, 50
+  orig: 188, 54
+  offset: 3, 1
+  index: -1

@@ -1,0 +1,265 @@
+
+qingkong.png
+size: 1000,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 922, 116
+  size: 53, 64
+  orig: 53, 64
+  offset: 0, 0
+  index: -1
+dao
+  rotate: false
+  xy: 815, 182
+  size: 178, 85
+  orig: 183, 93
+  offset: 0, 4
+  index: -1
+daoke
+  rotate: true
+  xy: 2, 2
+  size: 132, 68
+  orig: 132, 68
+  offset: 0, 0
+  index: -1
+eff/瞬移/瞬移/瞬移_00000
+  rotate: false
+  xy: 72, 8
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eff/瞬移/瞬移/瞬移_00001
+  rotate: false
+  xy: 397, 157
+  size: 41, 48
+  orig: 225, 75
+  offset: 0, 11
+  index: -1
+eff/瞬移/瞬移/瞬移_00002
+  rotate: true
+  xy: 571, 107
+  size: 100, 55
+  orig: 225, 75
+  offset: 0, 8
+  index: -1
+eff/瞬移/瞬移/瞬移_00003
+  rotate: true
+  xy: 191, 9
+  size: 125, 57
+  orig: 225, 75
+  offset: 0, 6
+  index: -1
+eff/瞬移/瞬移/瞬移_00004
+  rotate: false
+  xy: 226, 148
+  size: 169, 57
+  orig: 225, 75
+  offset: 2, 6
+  index: -1
+eff/瞬移/瞬移/瞬移_00005
+  rotate: false
+  xy: 444, 209
+  size: 186, 58
+  orig: 225, 75
+  offset: 4, 6
+  index: -1
+eff/瞬移/瞬移/瞬移_00008
+  rotate: false
+  xy: 226, 207
+  size: 216, 60
+  orig: 225, 75
+  offset: 9, 5
+  index: -1
+eff/瞬移/瞬移/瞬移_00010
+  rotate: false
+  xy: 2, 136
+  size: 217, 62
+  orig: 225, 75
+  offset: 8, 3
+  index: -1
+eff/瞬移/瞬移/瞬移_00014
+  rotate: false
+  xy: 2, 200
+  size: 222, 67
+  orig: 225, 75
+  offset: 3, 0
+  index: -1
+eff/瞬移/瞬移/瞬移_00016
+  rotate: false
+  xy: 632, 198
+  size: 181, 69
+  orig: 225, 75
+  offset: 44, 0
+  index: -1
+eff/瞬移/瞬移/瞬移_00021
+  rotate: true
+  xy: 553, 2
+  size: 103, 63
+  orig: 225, 75
+  offset: 122, 11
+  index: -1
+eff/瞬移/瞬移/瞬移_00023
+  rotate: true
+  xy: 734, 11
+  size: 73, 56
+  orig: 225, 75
+  offset: 152, 12
+  index: -1
+eff/瞬移/瞬移/瞬移_00024
+  rotate: true
+  xy: 866, 75
+  size: 73, 54
+  orig: 225, 75
+  offset: 152, 12
+  index: -1
+eyes
+  rotate: true
+  xy: 831, 2
+  size: 71, 42
+  orig: 71, 42
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 377, 32
+  size: 53, 114
+  orig: 53, 114
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 741, 86
+  size: 53, 110
+  orig: 54, 110
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: true
+  xy: 796, 81
+  size: 67, 68
+  orig: 72, 79
+  offset: 5, 11
+  index: -1
+hair5
+  rotate: true
+  xy: 875, 2
+  size: 71, 32
+  orig: 80, 32
+  offset: 9, 0
+  index: -1
+head
+  rotate: false
+  xy: 72, 11
+  size: 117, 123
+  orig: 117, 125
+  offset: 0, 2
+  index: -1
+l-arm
+  rotate: false
+  xy: 792, 2
+  size: 37, 77
+  orig: 38, 77
+  offset: 0, 0
+  index: -1
+l-eye
+  rotate: false
+  xy: 909, 8
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+l-leg
+  rotate: true
+  xy: 307, 8
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 618, 9
+  size: 114, 76
+  orig: 115, 76
+  offset: 1, 0
+  index: -1
+r-arm
+  rotate: true
+  xy: 922, 69
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+r-eye
+  rotate: false
+  xy: 963, 44
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+r-leg
+  rotate: false
+  xy: 977, 126
+  size: 21, 54
+  orig: 23, 54
+  offset: 1, 0
+  index: -1
+受击 拷贝 2
+  rotate: false
+  xy: 909, 31
+  size: 52, 36
+  orig: 60, 40
+  offset: 5, 1
+  index: -1
+图层 4
+  rotate: false
+  xy: 444, 133
+  size: 125, 74
+  orig: 125, 74
+  offset: 0, 0
+  index: -1
+攻击嘴型 拷贝
+  rotate: false
+  xy: 553, 120
+  size: 16, 11
+  orig: 18, 13
+  offset: 1, 1
+  index: -1
+残影/残影1@0.25x
+  rotate: false
+  xy: 628, 87
+  size: 111, 109
+  orig: 112, 110
+  offset: 1, 1
+  index: -1
+残影/残影2@0.25x
+  rotate: false
+  xy: 432, 22
+  size: 119, 109
+  orig: 121, 110
+  offset: 1, 1
+  index: -1
+残影/残影3@0.25x
+  rotate: false
+  xy: 250, 38
+  size: 125, 108
+  orig: 125, 110
+  offset: 0, 1
+  index: -1
+眩晕 拷贝 2
+  rotate: false
+  xy: 250, 2
+  size: 55, 34
+  orig: 57, 42
+  offset: 1, 1
+  index: -1
+阴影
+  rotate: false
+  xy: 796, 150
+  size: 110, 30
+  orig: 114, 33
+  offset: 2, 1
+  index: -1

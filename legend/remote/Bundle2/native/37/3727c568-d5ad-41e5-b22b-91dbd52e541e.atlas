@@ -1,0 +1,62 @@
+
+molang.png
+size: 326,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pt/右前腿
+  rotate: false
+  xy: 274, 203
+  size: 49, 74
+  orig: 60, 74
+  offset: 0, 0
+  index: -1
+pt/图层 6
+  rotate: true
+  xy: 215, 67
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+pt/头
+  rotate: false
+  xy: 142, 144
+  size: 130, 133
+  orig: 130, 133
+  offset: 0, 0
+  index: -1
+pt/左前腿
+  rotate: false
+  xy: 215, 8
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+pt/毛
+  rotate: true
+  xy: 2, 130
+  size: 147, 138
+  orig: 147, 138
+  offset: 0, 0
+  index: -1
+pt/阴影
+  rotate: true
+  xy: 294, 91
+  size: 110, 30
+  orig: 114, 33
+  offset: 2, 1
+  index: -1
+pt/魔狼
+  rotate: true
+  xy: 110, 5
+  size: 123, 103
+  orig: 123, 103
+  offset: 0, 0
+  index: -1
+pt/黑毛
+  rotate: true
+  xy: 2, 2
+  size: 126, 106
+  orig: 126, 106
+  offset: 0, 0
+  index: -1

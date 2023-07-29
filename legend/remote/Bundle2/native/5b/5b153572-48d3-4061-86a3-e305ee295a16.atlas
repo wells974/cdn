@@ -1,0 +1,265 @@
+
+qiqi.png
+size: 1648,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pt/arrow
+  rotate: true
+  xy: 210, 174
+  size: 220, 26
+  orig: 224, 28
+  offset: 3, 1
+  index: -1
+pt/body
+  rotate: false
+  xy: 1451, 3
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+pt/eff/蓄力/射击/射击/射击_00004
+  rotate: true
+  xy: 2, 9
+  size: 140, 85
+  orig: 275, 125
+  offset: 18, 15
+  index: -1
+pt/eff/蓄力/射击/射击/射击_00006
+  rotate: true
+  xy: 1148, 198
+  size: 196, 87
+  orig: 275, 125
+  offset: 21, 14
+  index: -1
+pt/eff/蓄力/射击/射击/射击_00007
+  rotate: true
+  xy: 125, 171
+  size: 223, 83
+  orig: 275, 125
+  offset: 22, 15
+  index: -1
+pt/eff/蓄力/射击/射击/射击_00009
+  rotate: true
+  xy: 1363, 54
+  size: 160, 82
+  orig: 275, 125
+  offset: 25, 16
+  index: -1
+pt/eff/蓄力/蓄力/蓄力_00000
+  rotate: true
+  xy: 1237, 216
+  size: 178, 172
+  orig: 200, 200
+  offset: 19, 2
+  index: -1
+pt/eff/蓄力/蓄力/蓄力_00002
+  rotate: false
+  xy: 152, 5
+  size: 195, 164
+  orig: 200, 200
+  offset: 2, 5
+  index: -1
+pt/eff/蓄力/蓄力/蓄力_00005
+  rotate: true
+  xy: 1015, 3
+  size: 193, 175
+  orig: 200, 200
+  offset: 0, 12
+  index: -1
+pt/eff/蓄力/蓄力/蓄力_00006
+  rotate: true
+  xy: 349, 4
+  size: 188, 187
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+pt/eff/蓄力/蓄力/蓄力_00008
+  rotate: true
+  xy: 430, 194
+  size: 200, 180
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+pt/eff/蓄力/蓄力/蓄力_00009
+  rotate: true
+  xy: 967, 198
+  size: 196, 179
+  orig: 200, 200
+  offset: 4, 0
+  index: -1
+pt/eff/蓄力/蓄力/蓄力_00011
+  rotate: true
+  xy: 1192, 5
+  size: 191, 169
+  orig: 200, 200
+  offset: 9, 0
+  index: -1
+pt/eff/蓄力/蓄力/蓄力_00012
+  rotate: true
+  xy: 538, 4
+  size: 188, 172
+  orig: 200, 200
+  offset: 9, 0
+  index: -1
+pt/eff/蓄力/蓄力/蓄力_00014
+  rotate: true
+  xy: 791, 194
+  size: 200, 174
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+pt/eff/蓄力/蓄力/蓄力_00015
+  rotate: true
+  xy: 612, 194
+  size: 200, 177
+  orig: 200, 200
+  offset: 0, 12
+  index: -1
+pt/eff/蓄力/蓄力/蓄力_00017
+  rotate: true
+  xy: 238, 194
+  size: 200, 190
+  orig: 200, 200
+  offset: 0, 1
+  index: -1
+pt/eff/蓄力/蓄力/蓄力_00019
+  rotate: false
+  xy: 712, 5
+  size: 196, 187
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+pt/eyes
+  rotate: false
+  xy: 1411, 223
+  size: 70, 39
+  orig: 72, 41
+  offset: 1, 1
+  index: -1
+pt/hair1
+  rotate: false
+  xy: 89, 13
+  size: 61, 136
+  orig: 61, 136
+  offset: 0, 0
+  index: -1
+pt/hair2
+  rotate: true
+  xy: 1517, 118
+  size: 64, 129
+  orig: 64, 129
+  offset: 0, 0
+  index: -1
+pt/hair3
+  rotate: false
+  xy: 1548, 5
+  size: 64, 59
+  orig: 66, 59
+  offset: 2, 0
+  index: -1
+pt/hair4
+  rotate: false
+  xy: 910, 9
+  size: 103, 183
+  orig: 103, 183
+  offset: 0, 0
+  index: -1
+pt/head
+  rotate: true
+  xy: 1531, 260
+  size: 102, 107
+  orig: 102, 107
+  offset: 0, 0
+  index: -1
+pt/l-arm
+  rotate: true
+  xy: 1363, 2
+  size: 50, 86
+  orig: 50, 87
+  offset: 0, 1
+  index: -1
+pt/l-eye
+  rotate: false
+  xy: 238, 171
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+pt/l-leg
+  rotate: false
+  xy: 1483, 184
+  size: 38, 78
+  orig: 39, 78
+  offset: 1, 0
+  index: -1
+pt/qunzi-houmian
+  rotate: true
+  xy: 1447, 62
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+pt/qunzi-qian
+  rotate: true
+  xy: 1411, 264
+  size: 130, 118
+  orig: 137, 118
+  offset: 7, 0
+  index: -1
+pt/r-arm
+  rotate: true
+  xy: 1517, 66
+  size: 50, 76
+  orig: 50, 76
+  offset: 0, 0
+  index: -1
+pt/r-eye
+  rotate: false
+  xy: 260, 172
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+pt/r-leg
+  rotate: false
+  xy: 1614, 39
+  size: 29, 77
+  orig: 31, 77
+  offset: 1, 0
+  index: -1
+pt/受击 拷贝
+  rotate: true
+  xy: 1510, 8
+  size: 52, 36
+  orig: 60, 40
+  offset: 5, 1
+  index: -1
+pt/弓箭 拷贝
+  rotate: true
+  xy: 2, 151
+  size: 243, 121
+  orig: 243, 121
+  offset: 0, 0
+  index: -1
+pt/攻击嘴型
+  rotate: true
+  xy: 125, 153
+  size: 16, 11
+  orig: 18, 13
+  offset: 1, 1
+  index: -1
+pt/眩晕 拷贝
+  rotate: true
+  xy: 1447, 166
+  size: 55, 34
+  orig: 57, 42
+  offset: 1, 1
+  index: -1
+pt/阴影
+  rotate: false
+  xy: 1531, 364
+  size: 110, 30
+  orig: 114, 33
+  offset: 2, 1
+  index: -1

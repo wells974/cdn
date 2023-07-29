@@ -1,0 +1,412 @@
+
+xiaoan.png
+size: 2015,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/发光/发光/发光_00000
+  rotate: false
+  xy: 155, 127
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eff/发光/发光/发光_00001
+  rotate: false
+  xy: 155, 127
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eff/发光/发光/发光_00020
+  rotate: false
+  xy: 155, 127
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eff/发光/发光/发光_00021
+  rotate: false
+  xy: 155, 127
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eff/发光/发光/发光_00022
+  rotate: false
+  xy: 155, 127
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eff/发光/发光/发光_00023
+  rotate: false
+  xy: 155, 127
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eff/盾牌/盾牌/盾牌_00000
+  rotate: false
+  xy: 155, 127
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eff/发光/发光/发光_00002
+  rotate: false
+  xy: 1303, 4
+  size: 25, 25
+  orig: 120, 109
+  offset: 48, 41
+  index: -1
+eff/发光/发光/发光_00003
+  rotate: true
+  xy: 1708, 207
+  size: 91, 89
+  orig: 120, 109
+  offset: 15, 10
+  index: -1
+eff/发光/发光/发光_00004
+  rotate: false
+  xy: 1335, 103
+  size: 94, 96
+  orig: 120, 109
+  offset: 13, 5
+  index: -1
+eff/发光/发光/发光_00005
+  rotate: false
+  xy: 1227, 201
+  size: 97, 97
+  orig: 120, 109
+  offset: 12, 5
+  index: -1
+eff/发光/发光/发光_00006
+  rotate: false
+  xy: 1326, 201
+  size: 97, 97
+  orig: 120, 109
+  offset: 12, 5
+  index: -1
+eff/发光/发光/发光_00007
+  rotate: false
+  xy: 1425, 203
+  size: 93, 95
+  orig: 120, 109
+  offset: 14, 6
+  index: -1
+eff/发光/发光/发光_00008
+  rotate: false
+  xy: 1335, 8
+  size: 93, 93
+  orig: 120, 109
+  offset: 14, 6
+  index: -1
+eff/发光/发光/发光_00009
+  rotate: true
+  xy: 1799, 209
+  size: 89, 87
+  orig: 120, 109
+  offset: 17, 9
+  index: -1
+eff/发光/发光/发光_00010
+  rotate: true
+  xy: 1711, 23
+  size: 90, 88
+  orig: 120, 109
+  offset: 16, 9
+  index: -1
+eff/发光/发光/发光_00011
+  rotate: true
+  xy: 1619, 17
+  size: 91, 90
+  orig: 120, 109
+  offset: 15, 8
+  index: -1
+eff/发光/发光/发光_00012
+  rotate: true
+  xy: 1525, 13
+  size: 93, 92
+  orig: 120, 109
+  offset: 14, 7
+  index: -1
+eff/发光/发光/发光_00013
+  rotate: false
+  xy: 1430, 8
+  size: 93, 93
+  orig: 120, 109
+  offset: 14, 6
+  index: -1
+eff/发光/发光/发光_00014
+  rotate: false
+  xy: 1431, 108
+  size: 93, 93
+  orig: 120, 109
+  offset: 14, 6
+  index: -1
+eff/发光/发光/发光_00015
+  rotate: false
+  xy: 1520, 205
+  size: 93, 93
+  orig: 120, 109
+  offset: 14, 6
+  index: -1
+eff/发光/发光/发光_00016
+  rotate: true
+  xy: 1526, 110
+  size: 93, 92
+  orig: 120, 109
+  offset: 14, 7
+  index: -1
+eff/发光/发光/发光_00017
+  rotate: false
+  xy: 1615, 207
+  size: 91, 91
+  orig: 120, 109
+  offset: 15, 7
+  index: -1
+eff/发光/发光/发光_00018
+  rotate: false
+  xy: 1620, 115
+  size: 90, 90
+  orig: 120, 109
+  offset: 16, 8
+  index: -1
+eff/发光/发光/发光_00019
+  rotate: false
+  xy: 1712, 117
+  size: 88, 88
+  orig: 120, 109
+  offset: 17, 9
+  index: -1
+eff/盾牌/盾牌/盾牌_00001
+  rotate: true
+  xy: 498, 4
+  size: 132, 138
+  orig: 155, 181
+  offset: 10, 22
+  index: -1
+eff/盾牌/盾牌/盾牌_00002
+  rotate: false
+  xy: 946, 153
+  size: 151, 145
+  orig: 155, 181
+  offset: 1, 18
+  index: -1
+eff/盾牌/盾牌/盾牌_00003
+  rotate: false
+  xy: 793, 4
+  size: 155, 142
+  orig: 155, 181
+  offset: 0, 20
+  index: -1
+eff/盾牌/盾牌/盾牌_00004
+  rotate: false
+  xy: 950, 15
+  size: 153, 136
+  orig: 155, 181
+  offset: 0, 23
+  index: -1
+eff/盾牌/盾牌/盾牌_00005
+  rotate: false
+  xy: 638, 5
+  size: 153, 138
+  orig: 155, 181
+  offset: 0, 22
+  index: -1
+eff/盾牌/盾牌/盾牌_00006
+  rotate: true
+  xy: 636, 145
+  size: 153, 152
+  orig: 155, 181
+  offset: 0, 15
+  index: -1
+eff/盾牌/盾牌/盾牌_00007
+  rotate: false
+  xy: 155, 130
+  size: 152, 168
+  orig: 155, 181
+  offset: 0, 7
+  index: -1
+eff/盾牌/盾牌/盾牌_00008
+  rotate: false
+  xy: 2, 126
+  size: 151, 172
+  orig: 155, 181
+  offset: 0, 5
+  index: -1
+eff/盾牌/盾牌/盾牌_00009
+  rotate: false
+  xy: 484, 138
+  size: 150, 160
+  orig: 155, 181
+  offset: 0, 10
+  index: -1
+eff/盾牌/盾牌/盾牌_00010
+  rotate: true
+  xy: 790, 148
+  size: 150, 154
+  orig: 155, 181
+  offset: 0, 8
+  index: -1
+pt/arm-l
+  rotate: true
+  xy: 1926, 79
+  size: 46, 77
+  orig: 46, 77
+  offset: 0, 0
+  index: -1
+pt/arm-r
+  rotate: true
+  xy: 1931, 37
+  size: 40, 82
+  orig: 40, 82
+  offset: 0, 0
+  index: -1
+pt/body
+  rotate: true
+  xy: 343, 18
+  size: 112, 153
+  orig: 133, 153
+  offset: 9, 0
+  index: -1
+pt/cape1
+  rotate: false
+  xy: 309, 155
+  size: 173, 143
+  orig: 173, 143
+  offset: 0, 0
+  index: -1
+pt/dunpai
+  rotate: false
+  xy: 1105, 28
+  size: 112, 139
+  orig: 112, 139
+  offset: 0, 0
+  index: -1
+pt/eye-l
+  rotate: false
+  xy: 330, 132
+  size: 13, 21
+  orig: 15, 23
+  offset: 1, 1
+  index: -1
+pt/eye-r
+  rotate: false
+  xy: 309, 132
+  size: 19, 21
+  orig: 21, 23
+  offset: 1, 1
+  index: -1
+pt/face1
+  rotate: true
+  xy: 1888, 221
+  size: 77, 39
+  orig: 79, 41
+  offset: 1, 1
+  index: -1
+pt/face2
+  rotate: false
+  xy: 1099, 169
+  size: 126, 129
+  orig: 128, 140
+  offset: 0, 11
+  index: -1
+pt/hair1
+  rotate: true
+  xy: 1801, 3
+  size: 52, 128
+  orig: 53, 129
+  offset: 1, 1
+  index: -1
+pt/hair2
+  rotate: true
+  xy: 1801, 57
+  size: 58, 123
+  orig: 59, 124
+  offset: 0, 1
+  index: -1
+pt/hair3
+  rotate: false
+  xy: 1802, 127
+  size: 75, 80
+  orig: 76, 80
+  offset: 1, 0
+  index: -1
+pt/hair4
+  rotate: true
+  xy: 1943, 170
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+pt/leg-l
+  rotate: true
+  xy: 1219, 3
+  size: 26, 82
+  orig: 27, 83
+  offset: 0, 1
+  index: -1
+pt/leg-r
+  rotate: false
+  xy: 1929, 210
+  size: 31, 88
+  orig: 32, 90
+  offset: 0, 1
+  index: -1
+pt/pifeng
+  rotate: false
+  xy: 2, 4
+  size: 178, 120
+  orig: 179, 121
+  offset: 0, 0
+  index: -1
+pt/qunzi
+  rotate: true
+  xy: 1879, 127
+  size: 80, 62
+  orig: 85, 62
+  offset: 2, 0
+  index: -1
+pt/受击
+  rotate: false
+  xy: 1943, 133
+  size: 50, 35
+  orig: 59, 39
+  offset: 6, 1
+  index: -1
+pt/攻击嘴型
+  rotate: false
+  xy: 343, 5
+  size: 17, 11
+  orig: 19, 13
+  offset: 1, 1
+  index: -1
+pt/盾牌1
+  rotate: true
+  xy: 182, 3
+  size: 125, 159
+  orig: 127, 161
+  offset: 1, 1
+  index: -1
+pt/盾牌2
+  rotate: false
+  xy: 1219, 31
+  size: 114, 136
+  orig: 114, 136
+  offset: 0, 0
+  index: -1
+pt/眩晕
+  rotate: false
+  xy: 1931, 2
+  size: 54, 33
+  orig: 56, 41
+  offset: 1, 1
+  index: -1
+pt/阴影
+  rotate: false
+  xy: 1227, 169
+  size: 106, 30
+  orig: 111, 33
+  offset: 3, 1
+  index: -1

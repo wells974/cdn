@@ -1,0 +1,531 @@
+
+heilongwang.png
+size: 1990,856
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/射线/射线/射线_00000
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eff/爆炸/爆炸/爆炸_00015
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eff/眼睛发光/眼睛发光/眼睛发光_00000
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+eff/射线/射线/射线_00001
+  rotate: false
+  xy: 1745, 13
+  size: 118, 138
+  orig: 300, 175
+  offset: 5, 29
+  index: -1
+eff/射线/射线/射线_00002
+  rotate: true
+  xy: 1590, 11
+  size: 140, 153
+  orig: 300, 175
+  offset: 2, 17
+  index: -1
+eff/射线/射线/射线_00003
+  rotate: false
+  xy: 1433, 4
+  size: 155, 160
+  orig: 300, 175
+  offset: 0, 12
+  index: -1
+eff/射线/射线/射线_00004
+  rotate: false
+  xy: 1454, 166
+  size: 174, 169
+  orig: 300, 175
+  offset: 0, 3
+  index: -1
+eff/射线/射线/射线_00005
+  rotate: false
+  xy: 1146, 3
+  size: 188, 171
+  orig: 300, 175
+  offset: 0, 1
+  index: -1
+eff/射线/射线/射线_00006
+  rotate: false
+  xy: 943, 3
+  size: 201, 171
+  orig: 300, 175
+  offset: 0, 1
+  index: -1
+eff/射线/射线/射线_00007
+  rotate: false
+  xy: 999, 176
+  size: 212, 172
+  orig: 300, 175
+  offset: 0, 0
+  index: -1
+eff/射线/射线/射线_00008
+  rotate: false
+  xy: 715, 30
+  size: 226, 171
+  orig: 300, 175
+  offset: 0, 2
+  index: -1
+eff/射线/射线/射线_00009
+  rotate: true
+  xy: 398, 2
+  size: 240, 169
+  orig: 300, 175
+  offset: 0, 3
+  index: -1
+eff/射线/射线/射线_00010
+  rotate: false
+  xy: 741, 436
+  size: 254, 168
+  orig: 300, 175
+  offset: 0, 4
+  index: -1
+eff/射线/射线/射线_00011
+  rotate: true
+  xy: 398, 244
+  size: 267, 163
+  orig: 300, 175
+  offset: 0, 8
+  index: -1
+eff/射线/射线/射线_00012
+  rotate: false
+  xy: 741, 290
+  size: 255, 144
+  orig: 300, 175
+  offset: 0, 27
+  index: -1
+eff/射线/射线/射线_00013
+  rotate: false
+  xy: 1389, 577
+  size: 281, 146
+  orig: 300, 175
+  offset: 0, 25
+  index: -1
+eff/射线/射线/射线_00014
+  rotate: false
+  xy: 1087, 712
+  size: 297, 142
+  orig: 300, 175
+  offset: 0, 28
+  index: -1
+eff/射线/射线/射线_00015
+  rotate: false
+  xy: 355, 513
+  size: 300, 140
+  orig: 300, 175
+  offset: 0, 30
+  index: -1
+eff/射线/射线/射线_00016
+  rotate: false
+  xy: 1386, 725
+  size: 300, 129
+  orig: 300, 175
+  offset: 0, 40
+  index: -1
+eff/射线/射线/射线_00017
+  rotate: false
+  xy: 1688, 736
+  size: 300, 118
+  orig: 300, 175
+  offset: 0, 50
+  index: -1
+eff/射线/射线/射线_00018
+  rotate: false
+  xy: 2, 5
+  size: 300, 108
+  orig: 300, 175
+  offset: 0, 60
+  index: -1
+eff/射线/射线/射线_00019
+  rotate: false
+  xy: 1087, 614
+  size: 300, 96
+  orig: 300, 175
+  offset: 0, 71
+  index: -1
+eff/射线/射线/射线_00020
+  rotate: false
+  xy: 1087, 528
+  size: 300, 84
+  orig: 300, 175
+  offset: 0, 82
+  index: -1
+eff/射线/射线/射线_00021
+  rotate: false
+  xy: 1389, 504
+  size: 300, 71
+  orig: 300, 175
+  offset: 0, 93
+  index: -1
+eff/射线/射线/射线_00022
+  rotate: false
+  xy: 1688, 666
+  size: 300, 68
+  orig: 300, 175
+  offset: 0, 95
+  index: -1
+eff/烟雾/烟雾/烟雾_00000
+  rotate: false
+  xy: 715, 5
+  size: 113, 23
+  orig: 300, 113
+  offset: 86, 43
+  index: -1
+eff/烟雾/烟雾/烟雾_00001
+  rotate: true
+  xy: 1950, 191
+  size: 158, 35
+  orig: 300, 113
+  offset: 65, 36
+  index: -1
+eff/烟雾/烟雾/烟雾_00002
+  rotate: false
+  xy: 1630, 153
+  size: 192, 49
+  orig: 300, 113
+  offset: 45, 27
+  index: -1
+eff/烟雾/烟雾/烟雾_00003
+  rotate: false
+  xy: 1630, 204
+  size: 213, 60
+  orig: 300, 113
+  offset: 37, 20
+  index: -1
+eff/烟雾/烟雾/烟雾_00004
+  rotate: false
+  xy: 1634, 266
+  size: 234, 73
+  orig: 300, 113
+  offset: 25, 12
+  index: -1
+eff/烟雾/烟雾/烟雾_00005
+  rotate: false
+  xy: 1643, 341
+  size: 238, 76
+  orig: 300, 113
+  offset: 23, 10
+  index: -1
+eff/烟雾/烟雾/烟雾_00006
+  rotate: false
+  xy: 1387, 337
+  size: 245, 79
+  orig: 300, 113
+  offset: 20, 8
+  index: -1
+eff/烟雾/烟雾/烟雾_00007
+  rotate: false
+  xy: 1643, 419
+  size: 249, 82
+  orig: 300, 113
+  offset: 18, 6
+  index: -1
+eff/烟雾/烟雾/烟雾_00008
+  rotate: false
+  xy: 1387, 418
+  size: 254, 84
+  orig: 300, 113
+  offset: 15, 4
+  index: -1
+eff/烟雾/烟雾/烟雾_00009
+  rotate: false
+  xy: 741, 203
+  size: 256, 85
+  orig: 300, 113
+  offset: 14, 3
+  index: -1
+eff/烟雾/烟雾/烟雾_00010
+  rotate: false
+  xy: 1672, 577
+  size: 259, 87
+  orig: 300, 113
+  offset: 13, 1
+  index: -1
+eff/烟雾/烟雾/烟雾_00011
+  rotate: false
+  xy: 998, 350
+  size: 259, 88
+  orig: 300, 113
+  offset: 13, 0
+  index: -1
+eff/烟雾/烟雾/烟雾_00012
+  rotate: true
+  xy: 563, 248
+  size: 263, 87
+  orig: 300, 113
+  offset: 11, 0
+  index: -1
+eff/烟雾/烟雾/烟雾_00013
+  rotate: true
+  xy: 652, 248
+  size: 263, 87
+  orig: 300, 113
+  offset: 11, 0
+  index: -1
+eff/烟雾/烟雾/烟雾_00014
+  rotate: false
+  xy: 997, 440
+  size: 264, 86
+  orig: 300, 113
+  offset: 10, 0
+  index: -1
+eff/烟雾/烟雾/烟雾_00015
+  rotate: false
+  xy: 1691, 503
+  size: 264, 72
+  orig: 300, 113
+  offset: 10, 0
+  index: -1
+eff/爆炸/爆炸/爆炸_00000
+  rotate: true
+  xy: 1894, 351
+  size: 150, 87
+  orig: 175, 95
+  offset: 11, 0
+  index: -1
+eff/爆炸/爆炸/爆炸_00001
+  rotate: true
+  xy: 1213, 177
+  size: 171, 72
+  orig: 175, 95
+  offset: 4, 0
+  index: -1
+eff/爆炸/爆炸/爆炸_00004
+  rotate: true
+  xy: 1213, 177
+  size: 171, 72
+  orig: 175, 95
+  offset: 4, 0
+  index: -1
+eff/爆炸/爆炸/爆炸_00005
+  rotate: true
+  xy: 1213, 177
+  size: 171, 72
+  orig: 175, 95
+  offset: 4, 0
+  index: -1
+eff/爆炸/爆炸/爆炸_00008
+  rotate: true
+  xy: 1213, 177
+  size: 171, 72
+  orig: 175, 95
+  offset: 4, 0
+  index: -1
+eff/爆炸/爆炸/爆炸_00009
+  rotate: true
+  xy: 1213, 177
+  size: 171, 72
+  orig: 175, 95
+  offset: 4, 0
+  index: -1
+eff/爆炸/爆炸/爆炸_00012
+  rotate: true
+  xy: 1213, 177
+  size: 171, 72
+  orig: 175, 95
+  offset: 4, 0
+  index: -1
+eff/爆炸/爆炸/爆炸_00013
+  rotate: true
+  xy: 1213, 177
+  size: 171, 72
+  orig: 175, 95
+  offset: 4, 0
+  index: -1
+eff/爆炸/爆炸/爆炸_00002
+  rotate: true
+  xy: 657, 535
+  size: 118, 71
+  orig: 175, 95
+  offset: 24, 0
+  index: -1
+eff/爆炸/爆炸/爆炸_00006
+  rotate: true
+  xy: 657, 535
+  size: 118, 71
+  orig: 175, 95
+  offset: 24, 0
+  index: -1
+eff/爆炸/爆炸/爆炸_00010
+  rotate: true
+  xy: 657, 535
+  size: 118, 71
+  orig: 175, 95
+  offset: 24, 0
+  index: -1
+eff/爆炸/爆炸/爆炸_00014
+  rotate: true
+  xy: 657, 535
+  size: 118, 71
+  orig: 175, 95
+  offset: 24, 0
+  index: -1
+eff/爆炸/爆炸/爆炸_00003
+  rotate: true
+  xy: 1336, 3
+  size: 175, 95
+  orig: 175, 95
+  offset: 0, 0
+  index: -1
+eff/爆炸/爆炸/爆炸_00007
+  rotate: true
+  xy: 1336, 3
+  size: 175, 95
+  orig: 175, 95
+  offset: 0, 0
+  index: -1
+eff/爆炸/爆炸/爆炸_00011
+  rotate: true
+  xy: 1336, 3
+  size: 175, 95
+  orig: 175, 95
+  offset: 0, 0
+  index: -1
+eff/眼睛发光/眼睛发光/眼睛发光_00001
+  rotate: false
+  xy: 997, 582
+  size: 59, 22
+  orig: 100, 25
+  offset: 19, 0
+  index: -1
+eff/眼睛发光/眼睛发光/眼睛发光_00002
+  rotate: true
+  xy: 1933, 589
+  size: 75, 24
+  orig: 100, 25
+  offset: 11, 0
+  index: -1
+eff/眼睛发光/眼睛发光/眼睛发光_00003
+  rotate: false
+  xy: 306, 119
+  size: 85, 23
+  orig: 100, 25
+  offset: 6, 0
+  index: -1
+eff/眼睛发光/眼睛发光/眼睛发光_00004
+  rotate: true
+  xy: 1865, 55
+  size: 96, 23
+  orig: 100, 25
+  offset: 0, 0
+  index: -1
+eff/眼睛发光/眼睛发光/眼睛发光_00005
+  rotate: false
+  xy: 830, 6
+  size: 100, 22
+  orig: 100, 25
+  offset: 0, 0
+  index: -1
+eff/眼睛发光/眼睛发光/眼睛发光_00006
+  rotate: false
+  xy: 1259, 382
+  size: 100, 22
+  orig: 100, 25
+  offset: 0, 0
+  index: -1
+eff/眼睛发光/眼睛发光/眼睛发光_00007
+  rotate: false
+  xy: 1259, 360
+  size: 100, 20
+  orig: 100, 25
+  offset: 0, 1
+  index: -1
+eff/眼睛发光/眼睛发光/眼睛发光_00008
+  rotate: true
+  xy: 1890, 51
+  size: 100, 17
+  orig: 100, 25
+  offset: 0, 2
+  index: -1
+eff/眼睛发光/眼睛发光/眼睛发光_00009
+  rotate: true
+  xy: 1909, 53
+  size: 98, 14
+  orig: 100, 25
+  offset: 0, 4
+  index: -1
+eff/眼睛发光/眼睛发光/眼睛发光_00010
+  rotate: true
+  xy: 1925, 56
+  size: 95, 12
+  orig: 100, 25
+  offset: 2, 5
+  index: -1
+pt/body
+  rotate: true
+  xy: 2, 115
+  size: 362, 302
+  orig: 363, 303
+  offset: 0, 1
+  index: -1
+pt/head
+  rotate: false
+  xy: 2, 479
+  size: 351, 375
+  orig: 365, 375
+  offset: 0, 0
+  index: -1
+pt/l-arm
+  rotate: false
+  xy: 1287, 180
+  size: 165, 155
+  orig: 165, 155
+  offset: 0, 0
+  index: -1
+pt/l-chibang
+  rotate: true
+  xy: 355, 655
+  size: 199, 396
+  orig: 199, 396
+  offset: 0, 0
+  index: -1
+pt/l-leg
+  rotate: true
+  xy: 1263, 406
+  size: 120, 122
+  orig: 120, 122
+  offset: 0, 0
+  index: -1
+pt/r-arm
+  rotate: false
+  xy: 569, 2
+  size: 144, 244
+  orig: 151, 245
+  offset: 0, 0
+  index: -1
+pt/r-chibang
+  rotate: true
+  xy: 753, 606
+  size: 248, 332
+  orig: 285, 333
+  offset: 0, 0
+  index: -1
+pt/r-leg
+  rotate: true
+  xy: 1845, 153
+  size: 111, 103
+  orig: 111, 103
+  offset: 0, 0
+  index: -1
+pt/阴影
+  rotate: true
+  xy: 306, 144
+  size: 333, 90
+  orig: 343, 96
+  offset: 5, 1
+  index: -1

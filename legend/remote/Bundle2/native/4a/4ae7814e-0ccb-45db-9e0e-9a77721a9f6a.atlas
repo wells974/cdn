@@ -1,0 +1,1196 @@
+
+younai.png
+size: 2017,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pt/body
+  rotate: false
+  xy: 1941, 436
+  size: 52, 56
+  orig: 52, 63
+  offset: 0, 0
+  index: -1
+pt/eff/光环1/光环1/光环1_00006
+  rotate: false
+  xy: 675, 473
+  size: 6, 50
+  orig: 25, 75
+  offset: 9, 13
+  index: -1
+pt/eff/光环1/光环1/光环1_00007
+  rotate: true
+  xy: 1660, 88
+  size: 7, 51
+  orig: 25, 75
+  offset: 8, 13
+  index: -1
+pt/eff/光环1/光环1/光环1_00008
+  rotate: true
+  xy: 1660, 79
+  size: 7, 51
+  orig: 25, 75
+  offset: 8, 13
+  index: -1
+pt/eff/光环1/光环1/光环1_00009
+  rotate: true
+  xy: 908, 24
+  size: 7, 50
+  orig: 25, 75
+  offset: 8, 13
+  index: -1
+pt/eff/光环1/光环1/光环1_00010
+  rotate: true
+  xy: 1660, 70
+  size: 7, 51
+  orig: 25, 75
+  offset: 8, 13
+  index: -1
+pt/eff/光环1/光环1/光环1_00011
+  rotate: true
+  xy: 1660, 61
+  size: 7, 51
+  orig: 25, 75
+  offset: 8, 13
+  index: -1
+pt/eff/光环1/光环1/光环1_00012
+  rotate: true
+  xy: 661, 16
+  size: 7, 52
+  orig: 25, 75
+  offset: 8, 13
+  index: -1
+pt/eff/光环1/光环1/光环1_00013
+  rotate: false
+  xy: 1101, 438
+  size: 7, 52
+  orig: 25, 75
+  offset: 8, 13
+  index: -1
+pt/eff/光环1/光环1/光环1_00014
+  rotate: false
+  xy: 1569, 256
+  size: 7, 53
+  orig: 25, 75
+  offset: 8, 12
+  index: -1
+pt/eff/光环1/光环1/光环1_00015
+  rotate: true
+  xy: 456, 124
+  size: 7, 53
+  orig: 25, 75
+  offset: 8, 12
+  index: -1
+pt/eff/光环1/光环1/光环1_00016
+  rotate: true
+  xy: 1874, 2
+  size: 7, 53
+  orig: 25, 75
+  offset: 8, 12
+  index: -1
+pt/eff/光环1/光环1/光环1_00017
+  rotate: true
+  xy: 1929, 2
+  size: 7, 53
+  orig: 25, 75
+  offset: 8, 12
+  index: -1
+pt/eff/光环1/光环1/光环1_00018
+  rotate: false
+  xy: 886, 750
+  size: 7, 53
+  orig: 25, 75
+  offset: 8, 12
+  index: -1
+pt/eff/光环1/光环1/光环1_00019
+  rotate: false
+  xy: 1320, 673
+  size: 7, 53
+  orig: 25, 75
+  offset: 8, 12
+  index: -1
+pt/eff/光环1/光环1/光环1_00020
+  rotate: false
+  xy: 675, 525
+  size: 6, 51
+  orig: 25, 75
+  offset: 9, 13
+  index: -1
+pt/eff/光环1/光环1/光环1_00021
+  rotate: true
+  xy: 245, 2
+  size: 6, 50
+  orig: 25, 75
+  offset: 9, 13
+  index: -1
+pt/eff/光环2/光环2/光环2_00000
+  rotate: false
+  xy: 1462, 422
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pt/eff/光环2/光环2/光环2_00001
+  rotate: true
+  xy: 1289, 50
+  size: 103, 45
+  orig: 120, 70
+  offset: 8, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00002
+  rotate: false
+  xy: 1685, 415
+  size: 105, 45
+  orig: 120, 70
+  offset: 7, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00003
+  rotate: false
+  xy: 1834, 434
+  size: 105, 46
+  orig: 120, 70
+  offset: 6, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00004
+  rotate: true
+  xy: 1775, 307
+  size: 106, 46
+  orig: 120, 70
+  offset: 6, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00005
+  rotate: false
+  xy: 1700, 671
+  size: 108, 47
+  orig: 120, 70
+  offset: 5, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00006
+  rotate: false
+  xy: 797, 5
+  size: 109, 48
+  orig: 120, 70
+  offset: 5, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00007
+  rotate: false
+  xy: 1810, 641
+  size: 108, 47
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00008
+  rotate: false
+  xy: 1590, 622
+  size: 108, 47
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00009
+  rotate: true
+  xy: 1153, 34
+  size: 107, 47
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00010
+  rotate: true
+  xy: 1933, 325
+  size: 107, 47
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00011
+  rotate: false
+  xy: 1700, 622
+  size: 108, 47
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00012
+  rotate: false
+  xy: 1810, 592
+  size: 108, 47
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00013
+  rotate: true
+  xy: 1785, 462
+  size: 108, 47
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00014
+  rotate: true
+  xy: 1884, 482
+  size: 108, 47
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00015
+  rotate: true
+  xy: 1933, 494
+  size: 108, 47
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00016
+  rotate: true
+  xy: 1051, 382
+  size: 108, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00017
+  rotate: false
+  xy: 1702, 770
+  size: 108, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00018
+  rotate: false
+  xy: 1823, 385
+  size: 108, 47
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00019
+  rotate: false
+  xy: 1665, 266
+  size: 107, 47
+  orig: 120, 70
+  offset: 7, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00020
+  rotate: false
+  xy: 1462, 255
+  size: 105, 46
+  orig: 120, 70
+  offset: 8, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00021
+  rotate: true
+  xy: 1617, 97
+  size: 106, 46
+  orig: 120, 70
+  offset: 7, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00022
+  rotate: true
+  xy: 1761, 91
+  size: 105, 46
+  orig: 120, 70
+  offset: 7, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00023
+  rotate: true
+  xy: 1665, 97
+  size: 106, 46
+  orig: 120, 70
+  offset: 6, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00024
+  rotate: true
+  xy: 1774, 198
+  size: 107, 47
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00025
+  rotate: false
+  xy: 1590, 721
+  size: 108, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00026
+  rotate: false
+  xy: 1590, 671
+  size: 108, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00027
+  rotate: false
+  xy: 1823, 336
+  size: 108, 47
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00028
+  rotate: false
+  xy: 1823, 287
+  size: 108, 47
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00029
+  rotate: false
+  xy: 1700, 720
+  size: 108, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00030
+  rotate: false
+  xy: 1810, 690
+  size: 108, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00031
+  rotate: false
+  xy: 1567, 572
+  size: 108, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00032
+  rotate: false
+  xy: 1677, 572
+  size: 108, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00033
+  rotate: false
+  xy: 1575, 522
+  size: 108, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00034
+  rotate: false
+  xy: 1575, 472
+  size: 108, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00035
+  rotate: false
+  xy: 1575, 422
+  size: 108, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00036
+  rotate: true
+  xy: 1685, 462
+  size: 108, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00037
+  rotate: true
+  xy: 1615, 312
+  size: 108, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00038
+  rotate: false
+  xy: 1823, 237
+  size: 107, 48
+  orig: 120, 70
+  offset: 7, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00039
+  rotate: false
+  xy: 1286, 2
+  size: 107, 46
+  orig: 120, 70
+  offset: 7, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00040
+  rotate: false
+  xy: 1809, 91
+  size: 105, 46
+  orig: 120, 70
+  offset: 8, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00041
+  rotate: true
+  xy: 1713, 14
+  size: 105, 46
+  orig: 120, 70
+  offset: 7, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00042
+  rotate: false
+  xy: 1761, 43
+  size: 105, 46
+  orig: 120, 70
+  offset: 6, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00043
+  rotate: true
+  xy: 1713, 121
+  size: 106, 46
+  orig: 120, 70
+  offset: 6, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00044
+  rotate: false
+  xy: 1823, 187
+  size: 107, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00045
+  rotate: false
+  xy: 1236, 255
+  size: 109, 48
+  orig: 120, 70
+  offset: 5, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00046
+  rotate: true
+  xy: 1735, 462
+  size: 108, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00047
+  rotate: false
+  xy: 1665, 365
+  size: 108, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00048
+  rotate: false
+  xy: 1469, 205
+  size: 107, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00049
+  rotate: true
+  xy: 1470, 96
+  size: 107, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00050
+  rotate: false
+  xy: 1347, 248
+  size: 109, 48
+  orig: 120, 70
+  offset: 5, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00051
+  rotate: false
+  xy: 1665, 315
+  size: 108, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00052
+  rotate: true
+  xy: 1834, 482
+  size: 108, 48
+  orig: 120, 70
+  offset: 6, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00053
+  rotate: true
+  xy: 1565, 311
+  size: 109, 48
+  orig: 120, 70
+  offset: 5, 11
+  index: -1
+pt/eff/光环2/光环2/光环2_00054
+  rotate: false
+  xy: 1591, 771
+  size: 109, 47
+  orig: 120, 70
+  offset: 5, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00055
+  rotate: true
+  xy: 1520, 96
+  size: 107, 47
+  orig: 120, 70
+  offset: 6, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00056
+  rotate: true
+  xy: 1569, 96
+  size: 107, 46
+  orig: 120, 70
+  offset: 6, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00057
+  rotate: false
+  xy: 1493, 48
+  size: 107, 46
+  orig: 120, 70
+  offset: 6, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00058
+  rotate: false
+  xy: 1809, 139
+  size: 106, 46
+  orig: 120, 70
+  offset: 7, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00059
+  rotate: true
+  xy: 1578, 205
+  size: 104, 46
+  orig: 120, 70
+  offset: 8, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00060
+  rotate: true
+  xy: 1932, 182
+  size: 103, 45
+  orig: 120, 70
+  offset: 8, 12
+  index: -1
+pt/eff/光环2/光环2/光环2_00061
+  rotate: false
+  xy: 1493, 2
+  size: 102, 44
+  orig: 120, 70
+  offset: 8, 13
+  index: -1
+pt/eff/波动/波/波_00000
+  rotate: false
+  xy: 1602, 40
+  size: 56, 54
+  orig: 138, 275
+  offset: 49, 13
+  index: -1
+pt/eff/波动/波/波_00001
+  rotate: false
+  xy: 1395, 2
+  size: 96, 64
+  orig: 138, 275
+  offset: 19, 13
+  index: -1
+pt/eff/波动/波/波_00002
+  rotate: false
+  xy: 1335, 171
+  size: 103, 75
+  orig: 138, 275
+  offset: 15, 12
+  index: -1
+pt/eff/波动/波/波_00003
+  rotate: true
+  xy: 1064, 34
+  size: 107, 87
+  orig: 138, 275
+  offset: 11, 12
+  index: -1
+pt/eff/波动/波/波_00004
+  rotate: false
+  xy: 1233, 155
+  size: 100, 98
+  orig: 138, 275
+  offset: 18, 11
+  index: -1
+pt/eff/波动/波/波_00005
+  rotate: false
+  xy: 1057, 143
+  size: 97, 108
+  orig: 138, 275
+  offset: 22, 10
+  index: -1
+pt/eff/波动/波/波_00006
+  rotate: false
+  xy: 1462, 303
+  size: 101, 117
+  orig: 138, 275
+  offset: 22, 11
+  index: -1
+pt/eff/波动/波/波_00007
+  rotate: false
+  xy: 798, 55
+  size: 108, 121
+  orig: 138, 275
+  offset: 22, 11
+  index: -1
+pt/eff/波动/波/波_00008
+  rotate: false
+  xy: 1356, 298
+  size: 104, 125
+  orig: 138, 275
+  offset: 22, 11
+  index: -1
+pt/eff/波动/波/波_00009
+  rotate: true
+  xy: 675, 362
+  size: 101, 130
+  orig: 138, 275
+  offset: 21, 10
+  index: -1
+pt/eff/波动/波/波_00010
+  rotate: false
+  xy: 1471, 422
+  size: 102, 130
+  orig: 138, 275
+  offset: 21, 11
+  index: -1
+pt/eff/波动/波/波_00011
+  rotate: true
+  xy: 915, 142
+  size: 104, 140
+  orig: 138, 275
+  offset: 19, 11
+  index: -1
+pt/eff/波动/波/波_00012
+  rotate: false
+  xy: 1130, 281
+  size: 104, 144
+  orig: 138, 275
+  offset: 19, 11
+  index: -1
+pt/eff/波动/波/波_00013
+  rotate: true
+  xy: 908, 33
+  size: 107, 154
+  orig: 138, 275
+  offset: 15, 11
+  index: -1
+pt/eff/波动/波/波_00014
+  rotate: false
+  xy: 803, 178
+  size: 110, 162
+  orig: 138, 275
+  offset: 11, 11
+  index: -1
+pt/eff/波动/波/波_00015
+  rotate: true
+  xy: 489, 2
+  size: 112, 170
+  orig: 138, 275
+  offset: 9, 10
+  index: -1
+pt/eff/波动/波/波_00016
+  rotate: false
+  xy: 686, 183
+  size: 115, 177
+  orig: 138, 275
+  offset: 7, 8
+  index: -1
+pt/eff/波动/波/波_00017
+  rotate: true
+  xy: 1293, 425
+  size: 127, 176
+  orig: 138, 275
+  offset: 2, 6
+  index: -1
+pt/eff/波动/波/波_00018
+  rotate: true
+  xy: 910, 712
+  size: 136, 181
+  orig: 138, 275
+  offset: 0, 6
+  index: -1
+pt/eff/波动/波/波_00019
+  rotate: true
+  xy: 1113, 427
+  size: 137, 178
+  orig: 138, 275
+  offset: 0, 5
+  index: -1
+pt/eff/波动/波/波_00020
+  rotate: true
+  xy: 683, 465
+  size: 136, 191
+  orig: 138, 275
+  offset: 0, 4
+  index: -1
+pt/eff/波动/波/波_00021
+  rotate: true
+  xy: 1812, 740
+  size: 133, 203
+  orig: 138, 275
+  offset: 4, 4
+  index: -1
+pt/eff/波动/波/波_00022
+  rotate: true
+  xy: 1591, 820
+  size: 134, 219
+  orig: 138, 275
+  offset: 1, 4
+  index: -1
+pt/eff/波动/波/波_00023
+  rotate: false
+  xy: 456, 133
+  size: 129, 227
+  orig: 138, 275
+  offset: 4, 4
+  index: -1
+pt/eff/波动/波/波_00024
+  rotate: true
+  xy: 1336, 912
+  size: 118, 237
+  orig: 138, 275
+  offset: 15, 5
+  index: -1
+pt/eff/波动/波/波_00025
+  rotate: true
+  xy: 2, 4
+  size: 118, 241
+  orig: 138, 275
+  offset: 15, 6
+  index: -1
+pt/eff/波动/波/波_00026
+  rotate: true
+  xy: 1095, 912
+  size: 118, 239
+  orig: 138, 275
+  offset: 14, 11
+  index: -1
+pt/eff/波动/波/波_00027
+  rotate: true
+  xy: 245, 10
+  size: 112, 242
+  orig: 138, 275
+  offset: 15, 9
+  index: -1
+pt/eff/波动/波/波_00028
+  rotate: false
+  xy: 587, 116
+  size: 97, 244
+  orig: 138, 275
+  offset: 20, 9
+  index: -1
+pt/eff/波动/波/波_00029
+  rotate: true
+  xy: 1349, 815
+  size: 95, 240
+  orig: 138, 275
+  offset: 23, 14
+  index: -1
+pt/eff/波动/波/波_00030
+  rotate: true
+  xy: 886, 599
+  size: 111, 238
+  orig: 138, 275
+  offset: 15, 16
+  index: -1
+pt/eff/波动/波/波_00031
+  rotate: true
+  xy: 876, 492
+  size: 105, 235
+  orig: 138, 275
+  offset: 23, 21
+  index: -1
+pt/eff/波动/波/波_00032
+  rotate: true
+  xy: 1093, 728
+  size: 107, 244
+  orig: 138, 275
+  offset: 22, 14
+  index: -1
+pt/eff/波动/波/波_00033
+  rotate: true
+  xy: 1320, 554
+  size: 96, 245
+  orig: 138, 275
+  offset: 31, 14
+  index: -1
+pt/eff/波动/波/波_00034
+  rotate: true
+  xy: 1339, 730
+  size: 83, 248
+  orig: 138, 275
+  offset: 43, 14
+  index: -1
+pt/eff/波动/波/波_00035
+  rotate: true
+  xy: 1339, 652
+  size: 76, 249
+  orig: 138, 275
+  offset: 44, 13
+  index: -1
+pt/eff/波动/波/波_00036
+  rotate: true
+  xy: 1095, 837
+  size: 73, 252
+  orig: 138, 275
+  offset: 46, 13
+  index: -1
+pt/eff/波动/波/波_00037
+  rotate: true
+  xy: 1920, 669
+  size: 69, 83
+  orig: 138, 275
+  offset: 46, 14
+  index: -1
+pt/eff/波动/波/波_00038
+  rotate: false
+  xy: 1399, 85
+  size: 69, 84
+  orig: 138, 275
+  offset: 46, 13
+  index: -1
+pt/eff/波动/波/波_00039
+  rotate: true
+  xy: 1202, 2
+  size: 62, 82
+  orig: 138, 275
+  offset: 48, 15
+  index: -1
+pt/eff/波动/波/波_00040
+  rotate: true
+  xy: 1626, 260
+  size: 50, 37
+  orig: 138, 275
+  offset: 52, 17
+  index: -1
+pt/eff/波动/波/波_00041
+  rotate: false
+  xy: 1761, 2
+  size: 39, 39
+  orig: 138, 275
+  offset: 57, 20
+  index: -1
+pt/eff/波动/波/波_00042
+  rotate: true
+  xy: 1933, 289
+  size: 34, 41
+  orig: 138, 275
+  offset: 55, 21
+  index: -1
+pt/eff/波动/波/波_00043
+  rotate: false
+  xy: 876, 342
+  size: 35, 38
+  orig: 138, 275
+  offset: 51, 25
+  index: -1
+pt/eff/波动/波/波_00044
+  rotate: false
+  xy: 1982, 511
+  size: 33, 36
+  orig: 138, 275
+  offset: 49, 27
+  index: -1
+pt/eff/波动/波/波_00045
+  rotate: false
+  xy: 1982, 367
+  size: 31, 35
+  orig: 138, 275
+  offset: 51, 29
+  index: -1
+pt/eff/波动/波/波_00046
+  rotate: false
+  xy: 1982, 331
+  size: 32, 34
+  orig: 138, 275
+  offset: 51, 31
+  index: -1
+pt/eff/波动/波/波_00047
+  rotate: false
+  xy: 1984, 295
+  size: 31, 34
+  orig: 138, 275
+  offset: 50, 33
+  index: -1
+pt/eff/波动/波/波_00048
+  rotate: true
+  xy: 1982, 404
+  size: 30, 33
+  orig: 138, 275
+  offset: 50, 35
+  index: -1
+pt/eff/波动/波/波_00049
+  rotate: false
+  xy: 1792, 428
+  size: 28, 32
+  orig: 138, 275
+  offset: 50, 36
+  index: -1
+pt/eff/闪光/闪光/闪光_00000
+  rotate: true
+  xy: 1626, 205
+  size: 53, 52
+  orig: 225, 225
+  offset: 86, 87
+  index: -1
+pt/eff/闪光/闪光/闪光_00001
+  rotate: false
+  xy: 1944, 38
+  size: 53, 54
+  orig: 225, 225
+  offset: 86, 86
+  index: -1
+pt/eff/闪光/闪光/闪光_00002
+  rotate: false
+  xy: 1202, 66
+  size: 85, 87
+  orig: 225, 225
+  offset: 70, 69
+  index: -1
+pt/eff/闪光/闪光/闪光_00003
+  rotate: false
+  xy: 1236, 305
+  size: 118, 118
+  orig: 225, 225
+  offset: 54, 54
+  index: -1
+pt/eff/闪光/闪光/闪光_00004
+  rotate: false
+  xy: 915, 248
+  size: 133, 132
+  orig: 225, 225
+  offset: 46, 47
+  index: -1
+pt/eff/闪光/闪光/闪光_00005
+  rotate: false
+  xy: 1858, 875
+  size: 157, 155
+  orig: 225, 225
+  offset: 34, 35
+  index: -1
+pt/eff/闪光/闪光/闪光_00006
+  rotate: false
+  xy: 910, 850
+  size: 183, 180
+  orig: 225, 225
+  offset: 21, 22
+  index: -1
+pt/eff/闪光/闪光/闪光_00007
+  rotate: false
+  xy: 683, 603
+  size: 201, 200
+  orig: 225, 225
+  offset: 12, 12
+  index: -1
+pt/eff/闪光/闪光/闪光_00008
+  rotate: false
+  xy: 456, 362
+  size: 217, 214
+  orig: 225, 225
+  offset: 4, 5
+  index: -1
+pt/eff/闪光/闪光/闪光_00009
+  rotate: false
+  xy: 2, 805
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+pt/eff/闪光/闪光/闪光_00010
+  rotate: false
+  xy: 2, 578
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+pt/eff/闪光/闪光/闪光_00011
+  rotate: false
+  xy: 229, 805
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+pt/eff/闪光/闪光/闪光_00012
+  rotate: false
+  xy: 2, 351
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+pt/eff/闪光/闪光/闪光_00013
+  rotate: false
+  xy: 229, 578
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+pt/eff/闪光/闪光/闪光_00014
+  rotate: false
+  xy: 456, 805
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+pt/eff/闪光/闪光/闪光_00015
+  rotate: false
+  xy: 2, 124
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+pt/eff/闪光/闪光/闪光_00016
+  rotate: false
+  xy: 229, 351
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+pt/eff/闪光/闪光/闪光_00017
+  rotate: false
+  xy: 456, 578
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+pt/eff/闪光/闪光/闪光_00018
+  rotate: false
+  xy: 683, 805
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+pt/eff/闪光/闪光/闪光_00019
+  rotate: false
+  xy: 229, 124
+  size: 225, 225
+  orig: 225, 225
+  offset: 0, 0
+  index: -1
+pt/eyes
+  rotate: false
+  xy: 1868, 47
+  size: 69, 42
+  orig: 69, 42
+  offset: 0, 0
+  index: -1
+pt/hair1
+  rotate: true
+  xy: 661, 25
+  size: 48, 134
+  orig: 48, 134
+  offset: 0, 0
+  index: -1
+pt/hair2
+  rotate: false
+  xy: 807, 342
+  size: 67, 121
+  orig: 67, 140
+  offset: 0, 19
+  index: -1
+pt/hair3
+  rotate: false
+  xy: 1050, 253
+  size: 78, 127
+  orig: 78, 127
+  offset: 0, 0
+  index: -1
+pt/hair4
+  rotate: false
+  xy: 1920, 604
+  size: 66, 63
+  orig: 77, 73
+  offset: 11, 10
+  index: -1
+pt/hair5
+  rotate: false
+  xy: 1336, 68
+  size: 61, 101
+  orig: 61, 101
+  offset: 0, 0
+  index: -1
+pt/head
+  rotate: true
+  xy: 686, 75
+  size: 106, 110
+  orig: 106, 110
+  offset: 0, 0
+  index: -1
+pt/l-ear
+  rotate: true
+  xy: 1802, 7
+  size: 34, 70
+  orig: 34, 70
+  offset: 0, 0
+  index: -1
+pt/l-hand
+  rotate: false
+  xy: 1812, 875
+  size: 33, 79
+  orig: 33, 79
+  offset: 0, 0
+  index: -1
+pt/l-leg
+  rotate: true
+  xy: 1680, 229
+  size: 35, 77
+  orig: 35, 77
+  offset: 0, 0
+  index: -1
+pt/other
+  rotate: false
+  xy: 1126, 566
+  size: 192, 160
+  orig: 192, 160
+  offset: 0, 0
+  index: -1
+pt/qunzi
+  rotate: false
+  xy: 876, 382
+  size: 173, 108
+  orig: 173, 108
+  offset: 0, 0
+  index: -1
+pt/qunzi-di
+  rotate: true
+  xy: 1156, 157
+  size: 122, 75
+  orig: 122, 87
+  offset: 0, 0
+  index: -1
+pt/r-ear
+  rotate: true
+  xy: 1874, 11
+  size: 34, 68
+  orig: 34, 68
+  offset: 0, 0
+  index: -1
+pt/r-hand
+  rotate: true
+  xy: 1917, 130
+  size: 50, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+pt/r-leg
+  rotate: false
+  xy: 1440, 171
+  size: 27, 75
+  orig: 60, 76
+  offset: 33, 1
+  index: -1
+pt/受击 拷贝 2
+  rotate: false
+  xy: 1916, 94
+  size: 50, 34
+  orig: 58, 39
+  offset: 5, 1
+  index: -1
+pt/攻击嘴型 拷贝
+  rotate: false
+  xy: 1156, 143
+  size: 16, 12
+  orig: 18, 14
+  offset: 1, 1
+  index: -1
+pt/武器
+  rotate: true
+  xy: 1575, 956
+  size: 74, 281
+  orig: 74, 281
+  offset: 0, 0
+  index: -1
+pt/眩晕 拷贝 2
+  rotate: true
+  xy: 1982, 549
+  size: 53, 33
+  orig: 55, 40
+  offset: 1, 1
+  index: -1
+pt/阴影
+  rotate: false
+  xy: 1064, 2
+  size: 110, 30
+  orig: 114, 33
+  offset: 2, 1
+  index: -1
